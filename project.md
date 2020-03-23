@@ -2,10 +2,9 @@
 
 COVID-19 Variant Analysis Initiative
 
-* [Github Docs](https://github.com/graph-genome/graph-genome.github.io/blob/master)
-* [Doc Index](index.html)
-* [Introduction](introduction.html)
-* [Hackathon](hackathon.html)
+* [Github Docs](https://github.com/graph-genome/projects)
+* [Complete Software Specification](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
+* [Hackathon](https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Pangenome-Browser)
 * [Pantograph](pantograph.html)
 * [Get Involved](getinvolved.html)
 
@@ -27,27 +26,22 @@ Pantograph is a very small piece in a worldwide effort to eradicate this disease
 
 Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 mutants as the situation develops.
 
+### Getting Involved
+[Click here for the first steps](getinvolved.html)
+
 
 ### Hackathon - April 5-10
 
 We will be hosting a special event for volunteers to collaborate for one week. We hope to build the software to a point where we can analyze the variations of the SARS-CoV-2 virus by the end of April. Your contribution could be important to helping us stop this killer virus.
 
-
-Join us to extend Pantograph so that it can be used to help with the COVID-19 break out.
+Join us to extend Pantograph so that it can be used to help with the COVID-19 outbreak.
 
 [View Details](hackathon.html)
 
 
 ### Learn About Pantograph
 
-Start by reading about the pangenome mapping which shows variations of a specific genome.
+A global view of the Pantograph Browser and its planned capabilities are available below.
 
-[View Details](pantograph.html)
-
-
-### Get Involved
-
-Start by reading the high level documentation. Then select an issue in the issues database to work on. Your efforts are greatly appreciated and may end up saving many lives.
-
-[View Details](getinvolved.html)
+[View Details](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
 

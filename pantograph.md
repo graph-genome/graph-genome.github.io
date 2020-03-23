@@ -23,7 +23,6 @@ Pangenome Browser
 ## Web Pages
 
 * [About the Project](project.html)
-* [Introduction](introduction.html)
 * [Hackathon](hackathon.html)
 * [Pantograph Documents](pantograph.html)
 * [Get Involved](getinvolved.html)
