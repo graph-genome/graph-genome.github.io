@@ -15,7 +15,8 @@ There are a lot of tasks involve managing a software development project.
 * Programming in React, Javascript, mobx
 * Semantic Web using SPARQL
 * Testing
-* File wrangling - finding the latest sequence data and running the pipeline
+* File wrangling - finding the latest sequence data and running the analysis pipeline
+    * Docker, Linux
 * Server setup - public facing server with data traffic  
 
 
