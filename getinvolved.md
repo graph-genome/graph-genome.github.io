@@ -1,3 +1,5 @@
+[Home](/)
+
 # Get Involved
 
 The hackathon is a great way to get started.  

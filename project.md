@@ -1,3 +1,5 @@
+[Home](/)
+
 # Pantograph - Pangenome Browser Project
 
 COVID-19 Variants Analysis Initiative

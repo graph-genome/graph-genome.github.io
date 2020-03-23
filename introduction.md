@@ -1,3 +1,5 @@
+[Home](/)
+
 # Pantograph Project Introduction
 
 COVID-19 Variants Analysis

@@ -1,3 +1,5 @@
+[Home](/)
+
 # Pantograph Project
 
 Pangenome Browser
