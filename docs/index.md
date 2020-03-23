@@ -3,6 +3,9 @@
 COVID-19 Variants Analysis Initiative
 
 * [Docs](https://github.com/graph-genome/graph-genome.github.io/blob/master/docs/index.md)
+* [Doc Index](index.html)
+* [Intro](introduction.html)
+
 
 ## What is the Pantograph Project?
 
