@@ -2,7 +2,7 @@
 
 ## Hackathon Goal
 
-COVID-19 Variants Analysis
+COVID-19 Variant Analysis
 
 As a vaccine is developed for any particular virus it matches specific details within the DNA. This will cause it to be effective on specific strands of the virus but will not work for other strands.
 

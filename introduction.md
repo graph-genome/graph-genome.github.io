@@ -1,6 +1,6 @@
 # Pantograph Project Introduction
 
-COVID-19 Variants Analysis
+COVID-19 Variant Analysis
 
 
 ## Pantograph: A Scalable Approach to Pangenome Visualization

@@ -1,6 +1,6 @@
-# Pantograph - Pangenome Browser Project
+# Pantograph - Pangenome Browser
 
-COVID-19 Variants Analysis Initiative
+COVID-19 Variant Analysis Initiative
 
 * [Github Docs](https://github.com/graph-genome/graph-genome.github.io/blob/master)
 * [Doc Index](index.html)
@@ -12,24 +12,20 @@ COVID-19 Variants Analysis Initiative
 
 ## What is the Pantograph Project?
 
-Pantograph is a pangenome browser that provides data visualization for the showing variations due to mutation in DNA samples.
+Pantograph is a pangenome browser that provides data visualization for showing variations due to mutation in DNA samples.
 
 
-### COVID-19 Variants Analysis
+### COVID-19 Relevance
 
-As a vaccine is developed for any particular virus it matches specific details within the DNA. This will cause it to be effective on specific strands of the virus but will not work for other strands.
+Pantograph as a project started in 2018 as a way to unlock the next level of population genetics for researchers. Pantograph is a visual browser for Graph Genomes, a new way of capturing sequence data. This process is designed to fix problems common to the sequencing technology that we’ve been using for the past 30 years. For example, Reference Bias means genetic analysis is more accurate for Europeans than for Africans ([Liverpool 2019](https://www.newscientist.com/article/2221957-genetic-studies-have-missed-important-gene-variants-in-african-people/)). A technical paper on Pantograph was being written by a team of 10 scientists before COVID-19 hit. 
 
-The variations of the SARS-CoV-2 virus must be studied to understand the mutations that are already in the population. This is crucial to ensure the long-term effectiveness of the COVID-19 vaccine.
-Our Mission
+Now, Pantograph is even more relevant to the current pandemic. The success or failure of our efforts to fight the COVID-19 disease rely upon the sequence diversity of the virus itself. Tests for infection rely on knowing the exact sequence being tested. A rearrangement in the order of genes, even if the content is the same, will return a false negative test. 
 
-We will analyze the SARS-CoV-2 virus mutations. Looking at the sequencing of different samples will reveal the areas that have mutated.
+Second, the vaccine targeting the Spike protein on the outside of the virus relies on a lack of genetic diversity in the Spike protein sequence ([NIH clinical trial](https://www.nih.gov/news-events/news-releases/nih-clinical-trial-investigational-vaccine-covid-19-begins)). If there are any strains with a mutant protein, the vaccine could be rendered ineffective and the virus would continue to spread. SARS-CoV-2 is an RNA virus that will likely infect billions of people, giving it a much higher mutation capability than we’ve previously dealt with in pandemics. For example, the common cold is so impossible to irradicate precisely because of the number of people infected and thus the high number of mutations which exist around the globe. Current sequencing techniques may be under-representing the full sequence diversity of the virus because they are reference based. Eliminating reference bias and enabling species genetic diversity on thousands of individuals is the core goal of using a graph genome.
 
-Creating a better understanding of the virus mutations will likely improve the effectiveness of any vaccines that will be developed. We believe that ultimately this will save lives.
-Our Strategy
+Pantograph is a very small piece in a worldwide effort to eradicate this disease. It is by no means the most important and the disease will likely end without any involvement on our part. However, given the scale of the pandemic, even a tiny improvement or speedup can result in thousands of lives saved. That’s a difference which is worth investing our resources in. Pantograph will continue to be useful in a wide range of disease application after the current crisis is averted, so that we are never caught unprepared again.
 
-Pangenome datasets are available the SARS-CoV-2 virus. Pantograph is a pangenome browser that already exists. This tool can be used study variants of the virus.
-
-Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 virus variants.
+Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 mutants as the situation develops.
 
 
 ### Hackathon - April 5-10
