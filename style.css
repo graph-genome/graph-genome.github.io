@@ -1,15 +1,13 @@
 header {
-    background-color: black;
-    margin: 1em;
-    padding: 1em;
+    margin: 0em;
+    padding: 0em;
 }
 
 header .titles {
-    padding: 2em;
+    padding: 0em;
     margin: 0;
-    background-color: black;
-    color: yellow;
-    border-radius: 20px;
+    background-color: white;
+    border-radius: 5px;
 }
 
 

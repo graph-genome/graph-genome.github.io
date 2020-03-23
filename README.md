@@ -1,3 +1,4 @@
+![](pantograph.png)
 # graph-genome.github.io
-Graph Genome Documentation
+Graph Genome Browser Documentation Website
 

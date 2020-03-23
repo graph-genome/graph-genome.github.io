@@ -1,3 +1,5 @@
+![](pantograph.png)
+
 # Get Involved
 Your efforts are greatly appreciated and may end up saving many lives.
 

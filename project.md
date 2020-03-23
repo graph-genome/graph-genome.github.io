@@ -1,6 +1,4 @@
-# Pantograph - Pangenome Browser
-
-COVID-19 Variant Analysis Initiative
+![](pantograph.png)
 
 * [Github Docs](https://github.com/graph-genome/projects)
 * [Complete Software Specification](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
