@@ -1,0 +1,85 @@
+header {
+    background-color: black;
+    margin: 1em;
+    padding: 1em;
+}
+
+header .titles {
+    padding: 2em;
+    margin: 0;
+    background-color: black;
+    color: yellow;
+    border-radius: 20px;
+}
+
+
+header h1 {
+    color: yellow;
+    box-shadow: none;
+    text-align: left;
+    padding: 0px;
+    font-size: 250%;
+}
+
+header h2 {
+    color: white;
+    box-shadow: none;
+    border: none;
+    margin: inherit;
+    text-align: left;
+    padding: 0px;
+    font-size: 150%;
+}
+
+header img {
+    border-radius: 20px;
+    text-align: right;
+}
+
+h1 {
+    color: dodgerblue;
+}
+
+h2 {
+    border: 1px solid dodgerblue;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px grey;
+    color: dodgerblue;
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    margin: 20px;
+    padding: 20px;
+}
+
+p {
+    margin: 2em;
+}
+
+li {
+    margin: 1em;
+}
+
+
+
+/* --------------------------
+        C L A S S E S
+*/
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
