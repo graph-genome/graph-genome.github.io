@@ -3,7 +3,7 @@
 COVID-19 Variants Analysis Initiative
 
 
-## What is Pantograph Project?
+## What is the Pantograph Project?
 
 Pantograph is a pangenome browser that provides data visualization for the showing variations due to mutation in DNA samples.
 
