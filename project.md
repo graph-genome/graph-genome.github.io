@@ -4,7 +4,7 @@
 
 COVID-19 Variants Analysis Initiative
 
-* [Github Docs](https://github.com/graph-genome.github.io/blob/master/docs/index.md)
+* [Github Docs](https://github.com/graph-genome.github.io/blob/master/docs)
 * [Doc Index](index.html)
 * [Introduction](introduction.html)
 * [Hackathon](hackathon.html)
