@@ -1,5 +1,3 @@
-[Home](/)
-
 # Pantograph Hackathon - April 6-10, 2020
 
 ## Hackathon Goal
