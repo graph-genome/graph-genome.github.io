@@ -2,12 +2,12 @@
 
 COVID-19 Variants Analysis Initiative
 
-* [Github Docs](https://github.com/graph-genome/graph-genome.github.io/blob/master/docs/index.md)
-* [Doc Index](/index.html)
-* [Introduction](/docs/introduction.html)
-* [Hackathon](/docs/hackathon.html)
-* [Pantograph](/docs/pantograph.html)
-* [Get Involved](/docs/getinvolved.html)
+* [Github Docs](https://github.com/graph-genome.github.io/blob/master/docs/index.md)
+* [Doc Index](index.html)
+* [Introduction](introduction.html)
+* [Hackathon](hackathon.html)
+* [Pantograph](pantograph.html)
+* [Get Involved](getinvolved.html)
 
 
 ## What is the Pantograph Project?
@@ -39,20 +39,19 @@ We will be hosting a special event for volunteers to collaborate for one week. W
 
 Join us to extend Pantograph so that it can be used to help with the COVID-19 break out.
 
-[View Details](https://graph-genome.github.io/hackathon.html)
-
-[View Details](https://github.com/graph-genome/graph-genome.github.io/blob/master/docs/hackathon.html)
+[View Details](hackathon.html)
 
 
 ### Learn About Pantograph
 
 Start by reading about the pangenome mapping which shows variations of a specific genome.
 
-    Github for Graph Genome Browser Consortium
+[View Details](pantograph.html)
 
 
 ### Get Involved
 
 Start by reading the high level documentation. Then select an issue in the issues database to work on. Your efforts are greatly appreciated and may end up saving many lives.
 
+[View Details](getinvolved.html)
 
