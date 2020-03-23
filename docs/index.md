@@ -2,6 +2,7 @@
 
 COVID-19 Variants Analysis Initiative
 
+* [Docs](https://github.com/graph-genome/graph-genome.github.io/blob/master/docs/index.md)
 
 ## What is the Pantograph Project?
 
@@ -32,7 +33,9 @@ We will be hosting a special event for volunteers to collaborate for one week. W
 
 Join us to extend Pantograph so that it can be used to help with the COVID-19 break out.
 
-[View Details](hackathon.md)
+[View Details](https://graph-genome.github.io/hackathon.html)
+
+[View Details](https://github.com/graph-genome/graph-genome.github.io/blob/master/docs/hackathon.html)
 
 
 ### Learn About Pantograph
