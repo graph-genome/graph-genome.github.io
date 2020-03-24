@@ -10,8 +10,7 @@ Josiah Seaman, the Project Lead, will be available for Office Hours on Zoom 10am
 
 ### Skills Needed
 
-Anyone with these skills would be tremendously valuable to this project.
-There are a lot of tasks involve managing a software development project.
+Anyone with these skills would be tremendously valuable to this project. There are a lot of tasks involved in managing a software development project.
 
 * Project Management - breaking down tasks, Scrum, requirements, and people coordination
 * Programming in React, Javascript, mobx
@@ -23,7 +22,11 @@ There are a lot of tasks involve managing a software development project.
 
 
 ### Call to Action
-Then select an issue in the issues database to work on. 
+1. Email josiah@newline.us to express interest and ask questions.
+2. Pick a Pantograph Project that fits your skills
+3. Select an issue in the issues database to work on. 
+4. Talk to Josiah on [Zoom](https://zoom.us/j/9703818860)
+5. Submit a Pull Request once you've written the code.
 
 ### Expectations for Hackathon
 
