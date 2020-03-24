@@ -17,7 +17,7 @@ Creating a better understanding of the virus mutations will likely improve the e
 
 ## Our Strategy
 
-Pangenome datasets are available for SARS-CoV-2 virus. Pantograph is a pangenome browser that already exists. This tool can be used study variants of the virus.  Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 virus variants.
+Pangenome datasets are available for SARS-CoV-2 virus. Pantograph is a pangenome browser that already exists. This tool can be used to study variants of the virus.  Our short-term goal is to extend the Pantograph tool to add features that will make it easier to study the SARS-CoV-2 virus variants.
 
 
 ## Join Us
