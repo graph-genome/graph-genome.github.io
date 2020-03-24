@@ -1,11 +1,11 @@
 ![](pantograph.png)
 
 # Get Involved
-Your efforts are greatly appreciated and may end up saving many lives.
+Your efforts are greatly appreciated and may contribute to saving many lives.
 
-The hackathon is a great way to get started. We'll be doing a "pregame" for people who have the time and want to get started making a difference today.
+The hackathon is a great way to get started. We'll be doing a "pregame" for people who have available time and want to begin making a difference today.
 Josiah Seaman, the Project Lead, will be available for Office Hours on Zoom 10am - 4pm EST starting 25 March.
-[Drop in and say hi!](https://zoom.us/j/9703818860) No commitement required.  
+[Drop in and say hi!](https://zoom.us/j/9703818860) No commitment required.  
 
 
 ### Skills Needed
