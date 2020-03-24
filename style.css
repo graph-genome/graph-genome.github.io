@@ -5,7 +5,8 @@ header {
 
 header .titles {
     padding: 0em;
-    margin: 0;
+    display: block;
+    margin-left: auto;
     background-color: white;
     border-radius: 5px;
 }
