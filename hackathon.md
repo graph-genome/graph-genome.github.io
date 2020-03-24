@@ -14,11 +14,10 @@ The variations of the SARS-CoV-2 virus must be studied to understand the mutatio
 We will analyze the SARS-CoV-2 virus mutations. Looking at the sequencing of different samples will reveal the areas that have mutated.
 
 Creating a better understanding of the virus mutations will likely improve the effectiveness of any vaccines that will be developed. We believe that ultimately this will save lives.
-Our Strategy
 
-Pangenome datasets are available the SARS-CoV-2 virus. Pantograph is a pangenome browser that already exists. This tool can be used study variants of the virus.
+## Our Strategy
 
-Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 virus variants.
+Pangenome datasets are available for SARS-CoV-2 virus. Pantograph is a pangenome browser that already exists. This tool can be used study variants of the virus.  Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 virus variants.
 
 
 ## Join Us
@@ -31,17 +30,24 @@ The hackathon is a great way to get started.
 
 ### Skills Needed
 
-Anyone with these skills would be tremendously valuable to this project
-Project Management
+Anyone with these skills would be tremendously valuable to this project.
+There are a lot of tasks involved in managing a software development project.
 
-There are a lot of tasks involve managing a software development project. These include breaking down task, Scrum, requirements, and people coordination.
-
-* Programming in React
+* Project Management - breaking down tasks, Scrum, requirements, and people coordination
+* Programming in React, Javascript, mobx
 * Semantic Web using SPARQL
+* Testing
+* File wrangling - finding the latest sequence data and running the analysis pipeline
+    * Docker, Linux
+* Server setup - public facing server with data traffic  
 
 
 ### Call to Action
-
+1. Email josiah@newline.us to express interest and ask questions.
+2. Pick a Pantograph Project that fits your skills
+3. Select an issue in the issues database to work on. 
+4. Talk to Josiah on [Zoom](https://zoom.us/j/9703818860)
+5. Submit a Pull Request once you've written the code.
 
 ### Expectations for Hackathon
 
