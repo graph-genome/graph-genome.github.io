@@ -1,12 +1,5 @@
 ![](img/pantograph.png)
 
-* [Github Docs](https://github.com/graph-genome/projects)
-* [Complete Software Specification](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
-* [Hackathon](https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Pangenome-Browser)
-* [Pantograph](pantograph.html)
-* [Get Involved](getinvolved.html)
-
-
 ### COVID-19 Relevance
 
 Pantograph as a project started in 2018 as a way to unlock the next level of population genetics for researchers. Pantograph is a visual browser for Graph Genomes, a new way of capturing sequence data. This process is designed to fix problems common to the sequencing technology that we’ve been using for the past 30 years. For example, Reference Bias means genetic analysis is more accurate for Europeans than for Africans ([Liverpool 2019](https://www.newscientist.com/article/2221957-genetic-studies-have-missed-important-gene-variants-in-african-people/)). A technical paper on Pantograph was being written by a team of 10 scientists before COVID-19 hit. 
@@ -24,7 +17,7 @@ Our short-term goal is to extend the Pantograph tool to add features to make it 
 Scientists frequently use Multiple Sequence Alignment (MSA) to compare many genomes simultaneously and highlight their differences.  MSA works by inserting gaps in all individuals to allow space for unique sequence in one or more individuals. This technique can lead to **Reference Bias** in analyzing diverse sequences. Graph Genomes are a new way of storing an alignment between many sequences that can include **non-linear rearrangements**. For example, the middle of one sequence can be at the beginning of another sequence. Tools for Graph Genomes are still under development and can't reliably scale to thousands of individuals. Pantograph is the first graph genome browser design with the capability to **scale to thousands of individuals** and still show the individual's nucleotide sequence. This means it's uniquely suited to providing a global overview of species genetic diversity with the option to zoom in on small features.
 
 The complete details of Pantograph and its planned capabilities are available in the 
-[Pantograph Specification](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing). The key aspects of our approach are:
+**[Pantograph Specification](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)**. The key aspects of our approach are:
  1) Use Graph Sorting to find a consensus ordering of elements in the genome 
  2) Separate genome into colinear blocks called Components 
  3) Show SNPs and indels as cells within a Component grid (Matrix) 
@@ -43,7 +36,13 @@ The complete details of Pantograph and its planned capabilities are available in
 If you're not available right away, but would like to join the team, the Hackathon is a great opportunity. We will be hosting a special event for volunteers to collaborate for one week. We hope to build the software to a point where we can analyze the variations of the SARS-CoV-2 virus by the end of April. Your contribution could be important to helping us stop this killer virus.
 
 Join us to extend Pantograph so that it can be used to help with the COVID-19 outbreak.
+[Hackathon Details](hackathon.md)
 
-[View Details](hackathon.md)
 
-
+## Documentation Index
+* [Complete Software Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
+* [Pantograph Description](pantograph.html)
+* [Project Resources](project.html)
+* [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
+* [Hackathon](hackathon.html)
+* [Get Involved](getinvolved.html)
