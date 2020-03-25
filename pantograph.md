@@ -17,18 +17,18 @@ Our short-term goal is to extend the Pantograph tool to add features to make it 
 Scientists frequently use Multiple Sequence Alignment (MSA) to compare many genomes simultaneously and highlight their differences.  MSA works by inserting gaps in all individuals to allow space for unique sequence in one or more individuals. This technique can lead to **Reference Bias** in analyzing diverse sequences. Graph Genomes are a new way of storing an alignment between many sequences that can include **non-linear rearrangements**. For example, the middle of one sequence can be at the beginning of another sequence. Tools for Graph Genomes are still under development and can't reliably scale to thousands of individuals. Pantograph is the first graph genome browser design with the capability to **scale to thousands of individuals** and still show the individual's nucleotide sequence. This means it's uniquely suited to providing a global overview of species genetic diversity with the option to zoom in on small features.
 
 The complete details of Pantograph and its planned capabilities are available in the 
-**[Pantograph Specification](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)**. The key aspects of our approach are:
- 1) Use Graph Sorting to find a consensus ordering of elements in the genome 
- 2) Separate genome into colinear blocks called Components 
- 3) Show SNPs and indels as cells within a Component grid (Matrix) 
- 4) use colorful Links anchored at Link Columns to show non-linear rearrangements in the pangenome, possibly shared by many individuals
- 6) Enable zooming from nucleotides, to gene regions, to whole chromosomes by binning of sequence content.
- 7) Cluster related individuals by sorting the rows into haplotypes
+[Pantograph Specification (Google Document)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing). The key aspects of our approach are:
+ 1. Use Graph Sorting to find a consensus ordering of elements in the genome 
+ 2. Separate genome into colinear blocks called Components 
+ 3. Show SNPs and indels as cells within a Component grid (Matrix) 
+ 4. use colorful Links anchored at Link Columns to show non-linear rearrangements in the pangenome, possibly shared by many individuals
+ 6. Enable zooming from nucleotides, to gene regions, to whole chromosomes by binning of sequence content.
+ 7. Cluster related individuals by sorting the rows into haplotypes
 
 
 
 ### Getting Involved
-[Click here for the first steps](getinvolved.md)
+There are a variety of great ways to participate in finding a solution. [Click here for the first steps](getinvolved.md)
 
 
 ### Hackathon - April 5-11
