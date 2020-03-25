@@ -1,6 +1,6 @@
 ![](pantograph.png)
 
-# Pantograph Hackathon - April 6-10, 2020
+# Pantograph Hackathon - April 5-11, 2020
 
 ## Hackathon Goal
 
