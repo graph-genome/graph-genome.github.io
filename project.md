@@ -34,7 +34,7 @@ We will be hosting a special event for volunteers to collaborate for one week. W
 
 Join us to extend Pantograph so that it can be used to help with the COVID-19 outbreak.
 
-[View Details](hackathon.html)
+[View Details](hackathon.md)
 
 
 ### Learn About Pantograph
