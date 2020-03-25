@@ -10,7 +10,7 @@ Josiah Seaman, the Project Lead, will be available for Office Hours on Zoom 10am
 
 ### Skills Needed
 
-Anyone with these skills would be tremendously valuable to this project. There are a lot of tasks involved in managing a software development project.
+Anyone with these skills would be tremendously valuable to this project. Along these lines, the hackathon and the organization is very open to all contributions. There are a lot of tasks involved in managing a software development project.
 
 * Project Management - breaking down tasks, Scrum, requirements, and people coordination
 * Programming in React, Javascript, mobx

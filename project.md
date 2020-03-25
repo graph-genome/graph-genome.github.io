@@ -25,7 +25,7 @@ Pantograph is a very small piece in a worldwide effort to eradicate this disease
 Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 mutants as the situation develops.
 
 ### Getting Involved
-[Click here for the first steps](getinvolved.html)
+[Click here for the first steps](getinvolved.md)
 
 
 ### Hackathon - April 5-11
@@ -34,7 +34,7 @@ We will be hosting a special event for volunteers to collaborate for one week. W
 
 Join us to extend Pantograph so that it can be used to help with the COVID-19 outbreak.
 
-[View Details](hackathon.html)
+[View Details](hackathon.md)
 
 
 ### Learn About Pantograph
