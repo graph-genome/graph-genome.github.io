@@ -1,4 +1,4 @@
-![](pantograph.png)
+![](img/pantograph.png)
 
 # Pantograph Pangenome Browser
 

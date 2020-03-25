@@ -1,4 +1,4 @@
-![](pantograph.png)
+![](img/pantograph.png)
 
 # Get Involved
 Your efforts are greatly appreciated and may contribute to saving many lives.
