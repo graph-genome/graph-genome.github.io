@@ -28,7 +28,7 @@ Our short-term goal is to extend the Pantograph tool to add features to make it 
 [Click here for the first steps](getinvolved.html)
 
 
-### Hackathon - April 5-10
+### Hackathon - April 5-11
 
 We will be hosting a special event for volunteers to collaborate for one week. We hope to build the software to a point where we can analyze the variations of the SARS-CoV-2 virus by the end of April. Your contribution could be important to helping us stop this killer virus.
 
