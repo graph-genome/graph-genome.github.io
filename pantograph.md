@@ -1,6 +1,7 @@
 ![](img/pantograph.png)
 
 ![This is an alpha image - the program is in the very early stages.](img/SARS Comparison pangenome.png)
+*Early alpha screenshot of Pantograph comparing different SARS species. Minimal overlap is shown with bat viral species.*
 ### COVID-19 Relevance
 
 Pantograph as a project started in 2018 as a way to unlock the next level of population genetics for researchers. Pantograph is a visual browser for Graph Genomes, a new way of capturing sequence data. This process is designed to fix problems common to the sequencing technology that we’ve been using for the past 30 years. For example, Reference Bias means genetic analysis is more accurate for Europeans than for Africans ([Liverpool 2019](https://www.newscientist.com/article/2221957-genetic-studies-have-missed-important-gene-variants-in-african-people/)). A technical paper on Pantograph was being written by a team of 10 scientists before COVID-19 hit. 
@@ -14,6 +15,8 @@ Pantograph is a very small piece in a worldwide effort to eradicate this disease
 Our short-term goal is to extend the Pantograph tool to add features to make it easier to study the SARS-CoV-2 mutants as the situation develops.
 
 ![](img/Nested Inversions.PNG)
+
+*Mockup for Pantograph showing a Nested Inversion using Links for rearrangements.*
 ## What is the Pantograph Browser?
 
 Scientists frequently use Multiple Sequence Alignment (MSA) to compare many genomes simultaneously and highlight their differences.  MSA works by inserting gaps in all individuals to allow space for unique sequence in one or more individuals. This technique can lead to **Reference Bias** in analyzing diverse sequences. Graph Genomes are a new way of storing an alignment between many sequences that can include **non-linear rearrangements**. For example, the middle of one sequence can be at the beginning of another sequence. Tools for Graph Genomes are still under development and can't reliably scale to thousands of individuals. Pantograph is the first graph genome browser design with the capability to **scale to thousands of individuals** and still show the individual's nucleotide sequence. This means it's uniquely suited to providing a global overview of species genetic diversity with the option to zoom in on small features.
@@ -29,6 +32,7 @@ The complete details of Pantograph and its planned capabilities are available in
 
 
 ![This is an alpha image - the program is in the very early stages.](img/Mouseover and Inputs.png)
+*Early alpha screenshot of Pantograph comparing Arabidopsis thaliana individuals with many rearrangements.*
 ### Getting Involved
 There are a variety of great ways to participate in finding a solution. [Click here for the first steps](getinvolved.md)
 
