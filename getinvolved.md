@@ -1,12 +1,13 @@
 ![](img/pantograph.png)
 
 # Get Involved
-Your efforts are greatly appreciated and may contribute to saving many lives.
 
+[Join our Slack Channel - #Pangenome_Browser](https://join.slack.com/share/I010JP8UMFT/nDnNhHyFXEHsPm9upxXSENub/enQtMTAxODc5MDk3MzUzNy1kNzY2MDU4NWVmMjdmNjI1NGM3NTc3ZTE2ZTNiNjU2MTA4MzExOTNmNzgyZTdlMzlkNjdmNWNlODZhNWRhZjlj).  
 The hackathon is a great way to get started. We'll be doing a "pregame" for people who have available time and want to begin making a difference today.
 Josiah Seaman, the Project Lead, will be available for Office Hours on Zoom 10am - 4pm EST starting 27 March.
 [Drop in and say hi!](https://zoom.us/j/9703818860) No commitment required.  
 
+Your efforts are greatly appreciated and may save many lives.
 
 ### Skills Needed
 
