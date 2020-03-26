@@ -1,6 +1,6 @@
 ![](img/pantograph.png)
 
-# Proejct Details and Resources
+# Project Details and Resources
 
 This page is for the software details and logistics of working on the project. It's a work in progress. GitHub Issues will be created for each planned Feature or bug found by testers.
 
