@@ -5,30 +5,22 @@
 These tools will streamline communications between team members.
 
 ### Slack
-
-Slack channel - virtualbiohackathoncovid19
-
-[#pangenome_browser](https://app.slack.com/client/T010K0KRLTF/C010UC6GPUM/details/info)
-
+Our central point of communication will be the #pangenome_browser channel in the Virtual Biohackathon Slack.  
+* Please [Join Virtual Biohackathon Slack](https://join.slack.com/t/virtualbiohac-xt62674/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg). 
+* Then join [#pangenome_browser](https://app.slack.com/client/T010K0KRLTF/C010UC6GPUM/details/info), this is the only channel you need to pay attention to. 
+* You can ignore the hackathon email list / forum.  
 * Getting Started
-    * Send a message
-    * Add a profile photo
-    * Get notified
+    * Send a message with your skills to let us know you're interested 
     * See what people are talking about
-    * Download the desktop app
-    * Connect to Google Drive
-
+    
 
 ### Zoom
 
-Video Conferencing
+Persistent Video Conferencing
 
-[Daily Check-in](https://zoom.us/)  (TDB)
-
-* Getting Started
-    * Visit [Zoom Communications](https://zoom.us/)
-    * Run from browser
-    * Install desktop application
+* During the Hackathon, we'll have a 15 minute [Daily Standup](https://zoom.us/9703818860) Time: TBD.
+* Visit [Zoom Communications](https://zoom.us/) for a one-time install
+* Runs from your browser
 
 
 
@@ -91,14 +83,9 @@ Documentation website written in Markdown.  Provides quick project level
 documentation that is displayed as a public web site. Easy editing of markdown
 files on a local computer that can be synced to the Github repo.
 
-* Website - 
+* Documentation Website - 
 [https://graph-genome.github.io/](https://graph-genome.github.io/)
-* Github Docs - 
+* Source for Documentation Website - 
 [https://github.com/graph-genome/graph-genome.github.io](https://github.com/graph-genome/graph-genome.github.io)
-
-
-### Google Docs & Google Drive
-
-Rich documents combining text and images with easy shared editing.
 
 
