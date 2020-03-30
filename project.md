@@ -14,6 +14,8 @@ This page is for the software details and logistics of working on the project. I
 * [Source for these Docs](https://github.com/graph-genome/graph-genome.github.io)
 * [Pangenome of public SARS-CoV-2 genomes/2020-03-29 in RDF/Turtle](https://graph-genome.github.io/SARS2-CoV2-genbank/20200329)
 
+## External Resources
+* [Frontiers Coronavirus Initiatives Directory (includes funding monitor)](https://coronavirus.frontiersin.org/)
 
 ## Documentation Index
 * [Complete Software Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
@@ -23,6 +25,7 @@ This page is for the software details and logistics of working on the project. I
 * [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
 * [Hackathon](hackathon.html)
 * [Get Involved](getinvolved.html)
+* [Testing Procedure](testing.html)
 
 
 

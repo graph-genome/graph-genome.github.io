@@ -53,4 +53,4 @@ Join us to extend Pantograph so that it can be used to help with the COVID-19 ou
 * [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
 * [Hackathon](hackathon.html)
 * [Get Involved](getinvolved.html)
-
+* [Testing Procedure](testing.html)

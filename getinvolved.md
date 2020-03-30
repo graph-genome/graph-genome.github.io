@@ -16,7 +16,7 @@ Anyone with these skills would be tremendously valuable to this project. Along t
 * Project Management - breaking down tasks, Scrum, requirements, and people coordination
 * Programming in React, Javascript, mobx
 * Semantic Web using SPARQL
-* Testing
+* [Testing](testing.html)
 * File wrangling - finding the latest sequence data and running the analysis pipeline
     * Docker, Linux
 * Server setup - public facing server with data traffic  
@@ -42,3 +42,4 @@ The hackathon is a great way to get started with minimal commitment. Team leader
 * [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
 * [Hackathon](hackathon.html)
 * [Get Involved](getinvolved.html)
+* [Testing Procedure](testing.html)
