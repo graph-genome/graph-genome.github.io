@@ -18,7 +18,7 @@ Our central point of communication will be the #pangenome_browser channel in the
 
 Persistent Video Conferencing
 
-* During the Hackathon, we'll have a 15 minute [Daily Standup](https://zoom.us/9703818860) Time: TBD.
+* During the Hackathon, we'll have a 15 minute Daily Standup. The link will be posted on our Slack Channel.
 * Visit [Zoom Communications](https://zoom.us/) for a one-time install
 * Runs from your browser
 
