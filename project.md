@@ -5,7 +5,7 @@
 This page is for the software details and logistics of working on the project. It's a work in progress. GitHub Issues will be created for each planned Feature or bug found by testers.
 
 ## Project Documents
-* Top-Level [Graph Genome Browser Consortium GitHub](https://github.com/graph-genome)
+* [Graph Genome Browser Consortium GitHub](https://github.com/graph-genome)
     * [Project Details](https://github.com/orgs/graph-genome/projects)
         * [Schematize Project Board](https://github.com/orgs/graph-genome/projects/3)
         * [JBrowse Annotation Integration Project Board](https://github.com/orgs/graph-genome/projects/2)
