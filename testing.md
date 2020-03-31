@@ -27,21 +27,3 @@ This process describes the steps for testing each Pull Request (PR) submitted by
 * Link mouseovers
 * Path position "Jump"
 
-
-
-
-
-
-
-
-
-## Documentation Index
-* [Complete Software Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
-* [Pantograph Description](pantograph.html)
-* [Communication and Development Tools](tools.html)
-* [Project Resources](project.html)
-* [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
-* [Hackathon](hackathon.html)
-* [Get Involved](getinvolved.html)
-* [Testing Procedure](testing.html)
-
