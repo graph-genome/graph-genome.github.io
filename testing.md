@@ -20,7 +20,9 @@ This process describes the steps for testing each Pull Request (PR) submitted by
 13. Clicking on the newly highlighted link should take you back to precisely where you came from (2-way link travel) with your orphan link centered in the view.
 14. Mouseover cells (grey blocks) should show e.g. "Path_name: 2365-27289. Coverage: 0.23, Inversion: 0.0".  Mouseovers should be different for each cell. Mouseover disappears when not over cell.
 
-![](img/example_screenshot.png)
+![](img/Example_screenshot.png)
+
+
 #### TODO:
 * Link mouseovers
 * Path position "Jump"
