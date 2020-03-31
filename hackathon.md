@@ -1,3 +1,5 @@
+[Project Documents](project.html)
+
 ![](img/pantograph.png)
 
 # Pantograph Hackathon - April 5-11, 2020

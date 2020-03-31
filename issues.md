@@ -1,3 +1,7 @@
+[Project Documents](project.html)
+
+![](img/pantograph.png)
+
 # Pantograph Issues
 
 ## Logging Issues

@@ -1,3 +1,7 @@
+[Project Documents](project.html)
+
+![](img/pantograph.png)
+
 # Tools We Use
 
 ## Communication Tools
