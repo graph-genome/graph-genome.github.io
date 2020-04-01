@@ -1,5 +1,3 @@
-[Project Documents](project.html)
-
 ![](img/pantograph.png)
 
 # Project Details and Resources
