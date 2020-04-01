@@ -5,12 +5,17 @@
 
 # Get Involved
 
+### Getting Started
+
 [Join our Slack Channel - #Pangenome_Browser](https://join.slack.com/share/I010JP8UMFT/nDnNhHyFXEHsPm9upxXSENub/enQtMTAxODc5MDk3MzUzNy1kNzY2MDU4NWVmMjdmNjI1NGM3NTc3ZTE2ZTNiNjU2MTA4MzExOTNmNzgyZTdlMzlkNjdmNWNlODZhNWRhZjlj).  
 The hackathon is a great way to get started. We'll be doing a "pregame" for people who have available time and want to begin making a difference today.
 
 You can get started [Setting Up Tools](tools.html) for communication and development.
 
 Your efforts are greatly appreciated and may save many lives.
+
+[Basic Development Tasks](basictasks.html)
+
 
 ### Skills Needed
 
@@ -32,17 +37,8 @@ Anyone with these skills would be tremendously valuable to this project. Along t
 3. Ask in Slack #pangenome_browser if you need clarification.
 5. Submit a Pull Request once you've written the code.
 
+
 ### Expectations for Hackathon
 
 The hackathon is a great way to get started with minimal commitment. Team leaders will help focus the development to ensure your success.
 
-
-## Documentation Index
-* [Complete Software Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
-* [Pantograph Description](pantograph.html)
-* [Communication and Development Tools](tools.html)
-* [Project Resources](project.html)
-* [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
-* [Hackathon](hackathon.html)
-* [Get Involved](getinvolved.html)
-* [Testing Procedure](testing.html)
