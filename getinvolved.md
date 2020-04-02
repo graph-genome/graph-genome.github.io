@@ -27,7 +27,8 @@ Anyone with these skills would be tremendously valuable to this project. Along t
 * [Testing](testing.html)
 * File wrangling - finding the latest sequence data and running the analysis pipeline
     * Docker, Linux
-* Server setup - public facing server with data traffic  
+* Server setup - public facing server with data traffic
+* Grant Writers - connect us with the funding sources we need for the long-term effort to build out Pantograph.
 
 
 ### Call to Action
