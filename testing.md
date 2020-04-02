@@ -5,7 +5,7 @@
 # Basic User Test
 This process describes the steps for testing each Pull Request (PR) submitted by a contributor.  In the Schematize Browser, we want to make sure that changes are compatible with each other and don't introduce new bugs.
 
-1. Pull code from contributor's repo.
+1. Pull code from contributor's repo (GitHub image below).
 2. `npm install` (Please note if the PR introduces a new npm package requirement).
 3. `npm start` Code should compile and launch browser window.
 4. Browser window should show Input widgets at top: filename, start bin, left and right buttons, path name, position, jump button, Use Vertical Compression, Row Height, Column Width.
@@ -21,9 +21,25 @@ This process describes the steps for testing each Pull Request (PR) submitted by
 14. Mouseover cells (grey blocks) should show e.g. "Path_name: 2365-27289. Coverage: 0.23, Inversion: 0.0".  Mouseovers should be different for each cell. Mouseover disappears when not over cell.
 
 ![](img/Example_screenshot.PNG)
+*Roughly what the starting page should look like with B1phi1 loaded.*
 
+![](img/checkout_fork_commandline.png)
+*You can find the commands to checkout people's code for testing by clicking "command line instructions" next to the Merge Pull request button.*
 
-#### TODO:
+#### Testing steps to add once features are implemented:
 * Link mouseovers
-* Path position "Jump"
+* Path position "Jump" (requires odgi setup or online server)
+
+
+
+
+# Python Testing process for component_segmentation
+1. Pull code from contributor's repo (GitHub image above).
+2. `pip install -r requirements.txt` (Please note if the PR introduces a new package requirement).  You should be using Python 3.7.* to test.
+3. `python segmentation.py --json-file=data/run1.B1phi1.i1.seqwish.w100.json --out-folder=data/ --cells-per-file=5000`
+4. New files should be created in /data/
+5. bin2file.json should list the names of all the chunkXX.json files
+6. Contents should be valid JSON.  
+7. Header with json_version should match the target version of the issue. This is especially important for issues that change the format.
+
 
