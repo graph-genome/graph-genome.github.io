@@ -8,7 +8,7 @@ This page is for the software details and logistics of working on the project. I
 ## Project Documents
 
 * Project Overiew
-    * [Pantograph Description](pantograph.html)
+    * [Pantograph Description](pantograph)
     * [Graph Genome Browser Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74)
     * [Source for these Docs](https://github.com/graph-genome/graph-genome.github.io)
     * [Pangenome of public SARS-CoV-2 genomes/2020-03-29 in RDF/Turtle](https://graph-genome.github.io/SARS2-CoV2-genbank/20200329)
@@ -17,17 +17,18 @@ This page is for the software details and logistics of working on the project. I
 ## Teamwork Documents
 
 * Get Involved
-    * [Basic Development Tasks](basictasks.html)
+    * [Basic Development Tasks](basictasks)
     * [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
-    * [Hackathon](hackathon.html)
-    * [Get Involved](getinvolved.html)
+    * [Hackathon](hackathon)
+    * [Get Involved](getinvolved)
 * Tools and Process
-    * [Logging Issues](issues.html)
-    * [Communication and Development Tools](tools.html)
-    * [Project Resources](project.html)
-    * [Testing Procedure](testing.html)
+    * [Project Status Meeting](statusmeeting)
+    * [Logging Issues](issues)
+    * [Communication and Development Tools](tools)
+    * [Project Resources](project)
+    * [Testing Procedure](testing)
 * Professional Standards (endorsed by us)
-    * [Javascript Style](https://google.github.io/styleguide/jsguide.html)
+    * [Javascript Style](https://google.github.io/styleguide/jsguide)
     * [Python Style](https://www.python.org/dev/peps/pep-0008) (with 120 chars of max line length)
     * [Code of Conduct](https://opensource.google/docs/releasing/template/CODE_OF_CONDUCT)
     
