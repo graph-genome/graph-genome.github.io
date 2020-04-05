@@ -26,6 +26,9 @@ The tools you need will depend on which components you are working on.
 Make a copy of 
 [Fork a Github Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
+* This lets you have your own copy of the repo
+* It remembers where the code originated and makes it easy to get updates
+
 
 ## Clone the Github Repos Needed
 
