@@ -8,14 +8,20 @@
 
 ## Schematize Testing
 
-### Integrate code from Pull Request
-
 This process describes the steps for testing each Pull Request (PR) submitted by a contributor.  In the Schematize Browser, we want to make sure that changes are compatible with each other and don't introduce new bugs.
 
+
+### Integrate code from Pull Request
+
+If the commit being merged is within the same repo then a simple command will get the code
+
+    git checkout pull-request-SHA1  # PR Commit
+    
 
 ### Checkout from Fork Repo
 
 ![](img/checkout_fork_commandline.png)
+
 *You can find the commands to checkout people's code for testing by clicking "command line instructions" next to the Merge Pull request button.*
 
 
@@ -47,8 +53,7 @@ Manual Testing is done by stepping through each test case and making sure that e
 
 ### Sample Schematize Page
 
-![](img/Example_screenshot.PNG)
-*Roughly what the starting page should look like with B1phi1 loaded.*
+![Roughly what the starting page should look like with B1phi1 loaded.*](img/Example_screenshot.PNG)
 
 
 #### Testing steps to add once features are implemented:
