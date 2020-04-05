@@ -64,3 +64,7 @@ Generate a Pull Request to share your changes with the team
 
 Read this excellent tutorial on how to [Create a Pull Request](https://yangsu.github.io/pull-request-tutorial/)
 
+* [Create a Pull Request](create-pull-request)
+* [Testing Process](testing)
+* [Merge a Pull Request](merge-pull-request)
+
