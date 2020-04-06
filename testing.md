@@ -37,7 +37,7 @@ If the commit being merged is within the same repo then a simple command will ge
 Manual Testing is done by stepping through each test case and making sure that everything is working correctly.
 1. `npm start` runs and loads code into the browser window automatically.
 2. Browser window should show the expected test pattern.
-3. Broser refresh reloads the view.
+3. Browser refresh reloads the view.
 4. Browser window should show Input widgets at top: filename, start bin, left and right buttons, path name, position, jump button, Use Vertical Compression, Row Height, Column Width.
 5. Browser window starts populated with a graphic showing the current data.
 6. Light grey blocks for coverage (shouldn't be everywhere). Dark grey connectors in between Components (light grey background boxes).  
