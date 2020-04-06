@@ -26,6 +26,9 @@ The tools you need will depend on which components you are working on.
 Make a copy of 
 [Fork a Github Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
+* This lets you have your own copy of the repo
+* It remembers where the code originated and makes it easy to get updates
+
 
 ## Clone the Github Repos Needed
 
@@ -63,4 +66,8 @@ Generate a Pull Request to share your changes with the team
 ## Create a Pull Request
 
 Read this excellent tutorial on how to [Create a Pull Request](https://yangsu.github.io/pull-request-tutorial/)
+
+* [Create a Pull Request](create-pull-request)
+* [Testing Process](testing)
+* [Merge a Pull Request](merge-pull-request)
 
