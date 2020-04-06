@@ -30,6 +30,12 @@ Persistent Video Conferencing
 
 ## Development Tools
 
+In terms of text editors, do not feel limited to one specific editor. Feel free
+to use any editor(Emacs, Vim, Sublime, etc) of your choice as long as you stick
+to the specic project's standard. If you have any questions around tooling, feel
+free to ask the question on our official slack channel- someone will help you
+out.
+
 ### Pycharm 
 
 Python development tool from JetBrains.  Allows for sharing of project 
