@@ -82,10 +82,8 @@ to contributors.
 ### Github - Projects
 
 Project management system to implement scrum and task workflow.
-
-* Graph Genome Browser Consortium - 
-[https://github.com/graph-genome](https://github.com/graph-genome)
-
+[Here](https://github.com/graph-genome) are all the projects under the Graph
+Genome Browser Consortium.
 
 ### Github Pages
 
