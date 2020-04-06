@@ -87,7 +87,7 @@ Genome Browser Consortium.
 
 ### Github Pages
 
-Documentation website written in Markdown.  Provides quick project level
+Documentation website written in [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/ "GitHub Flavored Markdown"). Provides quick project level
 documentation that is displayed as a public web site. Easy editing of markdown
 files on a local computer that can be synced to the Github repo.
 
