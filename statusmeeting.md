@@ -23,6 +23,8 @@ and can be linked directly to the status report that triggered them.
 
 Since we are in many timezones the is an essential part of the overall workflow.
 
+Additionally, we try to take nots of each meeting at [Pangenome Browser Meeting Notes](https://docs.google.com/document/d/116kNhbROvVbWXWmiUXxahsMuiOoEv1i7ofuF7vaYJBI/edit?usp=sharing)
+
 
 ## Explanation
 
