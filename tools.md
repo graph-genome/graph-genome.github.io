@@ -74,8 +74,9 @@ Manage code repositories
 
 ### Github - Issue Tracking
 
-Mangage all of the outstanding issues on the project.  Supports flexible 
-notification system and workflow.
+Manage all of the outstanding issues on the project. Supports flexible
+notification system and workflow and provides a way to give meaningful feedback
+to contributors.
 
 
 ### Github - Projects
