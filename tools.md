@@ -66,11 +66,10 @@ Provides tool platform for rapid React development.
 
 Manage code repositories
 
-* Graph Genome Browser Consortium - 
-[https://github.com/graph-genome](https://github.com/graph-genome)
-* [https://github.com/graph-genome/component_segmentation](https://github.com/graph-genome/component_segmentation)
-* [https://github.com/graph-genome/Schematize](https://github.com/graph-genome/Schematize)
-* [https://github.com/graph-genome/pipeline](https://github.com/graph-genome/pipeline)
+* [Graph Genome Browser Consortium](https://github.com/graph-genome)
+* [Component Segmentation](https://github.com/graph-genome/component_segmentation)- Read in ODGI Bin output and identify co-linear components
+* [Schematize](https://github.com/graph-genome/Schematize)- Visualization component of Pangenome Schematics for 1,000s of individuals and gigabase genomes
+* [Pipeline](https://github.com/graph-genome/pipeline)
 
 
 ### Github - Issue Tracking
