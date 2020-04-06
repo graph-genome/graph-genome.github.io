@@ -30,6 +30,12 @@ Persistent Video Conferencing
 
 ## Development Tools
 
+In terms of text editors, do not feel limited to one specific editor. Feel free
+to use any editor(Emacs, Vim, Sublime, etc) of your choice as long as you stick
+to the specic project's standard. If you have any questions around tooling, feel
+free to ask the question on our official slack channel- someone will help you
+out.
+
 ### Pycharm 
 
 Python development tool from JetBrains.  Allows for sharing of project 
@@ -60,30 +66,28 @@ Provides tool platform for rapid React development.
 
 Manage code repositories
 
-* Graph Genome Browser Consortium - 
-[https://github.com/graph-genome](https://github.com/graph-genome)
-* [https://github.com/graph-genome/component_segmentation](https://github.com/graph-genome/component_segmentation)
-* [https://github.com/graph-genome/Schematize](https://github.com/graph-genome/Schematize)
-* [https://github.com/graph-genome/pipeline](https://github.com/graph-genome/pipeline)
+* [Graph Genome Browser Consortium](https://github.com/graph-genome)
+* [Component Segmentation](https://github.com/graph-genome/component_segmentation)- Read in ODGI Bin output and identify co-linear components
+* [Schematize](https://github.com/graph-genome/Schematize)- Visualization component of Pangenome Schematics for 1,000s of individuals and gigabase genomes
+* [Pipeline](https://github.com/graph-genome/pipeline)
 
 
 ### Github - Issue Tracking
 
-Mangage all of the outstanding issues on the project.  Supports flexible 
-notification system and workflow.
+Manage all of the outstanding issues on the project. Supports flexible
+notification system and workflow and provides a way to give meaningful feedback
+to contributors.
 
 
 ### Github - Projects
 
 Project management system to implement scrum and task workflow.
-
-* Graph Genome Browser Consortium - 
-[https://github.com/graph-genome](https://github.com/graph-genome)
-
+[Here](https://github.com/graph-genome) are all the projects under the Graph
+Genome Browser Consortium.
 
 ### Github Pages
 
-Documentation website written in Markdown.  Provides quick project level
+Documentation website written in [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/ "GitHub Flavored Markdown"). Provides quick project level
 documentation that is displayed as a public web site. Easy editing of markdown
 files on a local computer that can be synced to the Github repo.
 
@@ -92,4 +96,5 @@ files on a local computer that can be synced to the Github repo.
 * Source for Documentation Website - 
 [https://github.com/graph-genome/graph-genome.github.io](https://github.com/graph-genome/graph-genome.github.io)
 
-
+---
+Next: [Project Resources](https://graph-genome.github.io/project.html), Previous: [Pantograph Description](https://graph-genome.github.io/pantograph.html) \[[Index](https://graph-genome.github.io/pantograph.html#documentation-index)\]

@@ -56,3 +56,6 @@ Join us to extend Pantograph so that it can be used to help with the COVID-19 ou
 * [Hackathon](hackathon.html)
 * [Get Involved](getinvolved.html)
 * [Testing Procedure](testing.html)
+
+---
+Next: [Communication and Development Tools](https://graph-genome.github.io/tools.html) \[[Index](https://graph-genome.github.io/pantograph.html#documentation-index)\]

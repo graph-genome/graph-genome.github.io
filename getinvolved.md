@@ -43,3 +43,5 @@ Anyone with these skills would be tremendously valuable to this project. Along t
 
 The hackathon is a great way to get started with minimal commitment. Team leaders will help focus the development to ensure your success.
 
+---
+Next: [Hackathon](https://graph-genome.github.io/hackathon.html), Previous: [Testing](https://graph-genome.github.io/testing.html) \[[Index](https://graph-genome.github.io/pantograph.html#documentation-index)\]

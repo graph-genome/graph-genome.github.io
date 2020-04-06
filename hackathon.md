@@ -27,7 +27,7 @@ Pangenome datasets are available for SARS-CoV-2 virus. Pantograph is a pangenome
 
 ### Get Involved
 
-The hackathon is a great way to get started.  
+The [hackathon](https://github.com/virtual-biohackathons/covid-19-bh20 "BioHackathon") is a great way to get started.
 
 
 ### Skills Needed
