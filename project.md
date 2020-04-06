@@ -61,3 +61,5 @@ This page is for the software details and logistics of working on the project. I
 
 * [Frontiers Coronavirus Initiatives Directory (includes funding monitor)](https://coronavirus.frontiersin.org/)
 
+---
+Next: [Hackathon](https://graph-genome.github.io/hackathon.html), Previous: [Communication and Development Tools](https://graph-genome.github.io/tools.html) \[[Index](https://graph-genome.github.io/pantograph.html#documentation-index)\]

@@ -96,4 +96,5 @@ files on a local computer that can be synced to the Github repo.
 * Source for Documentation Website - 
 [https://github.com/graph-genome/graph-genome.github.io](https://github.com/graph-genome/graph-genome.github.io)
 
-
+---
+Next: [Project Resources](https://graph-genome.github.io/project.html), Previous: [Pantograph Description](https://graph-genome.github.io/pantograph.html) \[[Index](https://graph-genome.github.io/pantograph.html#documentation-index)\]

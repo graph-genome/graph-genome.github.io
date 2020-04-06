@@ -72,3 +72,5 @@ Manual Testing is done by stepping through each test case and making sure that e
 6. Contents should be valid JSON.  
 7. Header with json_version should match the target version of the issue. This is especially important for issues that change the format.
 
+---
+Previous: [Get Involved](https://graph-genome.github.io/getinvolved.html) \[[Index](https://graph-genome.github.io/pantograph.html#documentation-index)\]
