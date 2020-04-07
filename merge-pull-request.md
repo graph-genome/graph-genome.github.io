@@ -12,6 +12,16 @@ Review the PRs
 
 ![PR Tab](img/pr-tab.png)
 
+### Merge using Github Desktop
+
+Checkout the master branch
+
+![Start on master](img/master.png)
+
+Merge in code from the test branch
+
+![Merge in test branch](img/merge-pr.png)
+
 
 ### Read Pending Pull Request
 
