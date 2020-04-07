@@ -4,6 +4,15 @@ How to process a pending pull request.
 
 ## Integrate Code from Pull Request
 
+### Select Pull Request
+
+Go to the Pull Request tab in the Github repo
+
+Review the PRs
+
+![PR Tab](img/pr-tab.png)
+
+
 ### Read Pending Pull Request
 
 * Identify the repository, branch, and the commit for the pull request.

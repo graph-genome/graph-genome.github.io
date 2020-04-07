@@ -20,6 +20,14 @@ lets you pull new changes from the original source.
 accommodate the changes that you intend to make
 
 
+## Create a New Branch Your Changes
+
+* Make a new branch in your repo to carry your changes.  This lets you separate 
+many types of changes that you are working on without being confused.
+
+    git checkout -b my-new-branch master
+    
+
 ## Modify Your Version
 
 * Edit any code that you want.
@@ -27,8 +35,23 @@ accommodate the changes that you intend to make
 * Push your changes to Github. This will modify your forked repository.
 
 
-## Push Your Changes
+## Create Pull Request
 
-* Generate a pull request.  
+If you are using Github Desktop it is very easy to create a new pull request.
+
+![Create Pull Request](img/create-pull-request.png)
+
 * Describe your set of changes.
+* Describe how to test your changes.
+
+
+Work the following sequence
+
+* Create a branch to merge into master
+* Create a PR using Github Desktop
+    * Add info via website
+* Merge in PR
+* Capture screenshots
+* Add to documentation
+
 
