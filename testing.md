@@ -16,13 +16,10 @@ This process describes the steps for testing each Pull Request (PR) submitted by
 If the commit being merged is within the same repo then a simple command will get the code
 
     git checkout pull-request-SHA1  # PR Commit
-    
 
-### Checkout from Fork Repo
+If the code is from another repo then follow the directions in [Merge Pull Request](merge-pull-request) 
+to get a copy of the code.
 
-![](img/checkout_fork_commandline.png)
-
-*You can find the commands to checkout people's code for testing by clicking "command line instructions" next to the Merge Pull request button.*
 
 
 ### Run Schematize
