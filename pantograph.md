@@ -2,8 +2,18 @@
 
 ![](img/pantograph.png)
 
-![This is an alpha image - the program is in the very early stages.](img/SARS Comparison pangenome.png)
+### Pantograph Interview Podcast
+    
+Interview with Josiah Seaman
+
+<iframe src="https://anchor.fm/Computomics/embed/episodes/Pantograph-SARS-Cov2--Covid-19-genome-browser-ech3sj/a-a1ss2d5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
+<img src="img/SARS Comparison pangenome.png" width="300" alt="This is an alpha image - the program is in the very early stages.">
+
 *Early alpha screenshot of Pantograph comparing different SARS species. Minimal overlap is shown with bat viral species.*
+
+
 ### COVID-19 Relevance
 
 Pantograph as a project started in 2018 as a way to unlock the next level of population genetics for researchers. Pantograph is a visual browser for Graph Genomes, a new way of capturing sequence data. This process is designed to fix problems common to the sequencing technology that we’ve been using for the past 30 years. For example, Reference Bias means genetic analysis is more accurate for Europeans than for Africans ([Liverpool 2019](https://www.newscientist.com/article/2221957-genetic-studies-have-missed-important-gene-variants-in-african-people/)). A technical paper on Pantograph was being written by a team of 10 scientists before COVID-19 hit. 
