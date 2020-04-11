@@ -65,22 +65,21 @@ authors:
     orcid: 0000-0003-3821-631X
     affiliation: 6
 affiliations:
- - name: Royal Botanic Gardens Kew
-   index: 1
- - name: Quantitative Biology Center, University of T¨ubingen, T¨ubingen, Germany, 72076
-   index: 2
- - name: The University of Tokyo, Chiba, Japan
-   index: 3
- - name: University of Goettingen
-   index: 4
- - name: Swiss Institute of Bioinformatics Geneva
-   index: 5
- - name: University of California Santa Cruz
-   index: 6
+  - name: Royal Botanic Gardens Kew
+    index: 1
+  - name: Quantitative Biology Center, University of T¨ubingen, T¨ubingen, Germany, 72076
+    index: 2
+  - name: The University of Tokyo, Chiba, Japan
+    index: 3
+  - name: University of Goettingen
+    index: 4
+  - name: Swiss Institute of Bioinformatics Geneva
+    index: 5
+  - name: University of California Santa Cruz
+    index: 6
 date: 11 April 2020
 bibliography: paper.bib
 ---
-
 # Introduction or Background
 
 Add to this section a couple of paragraphs introducing the work done during the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayamaetal-2010].
