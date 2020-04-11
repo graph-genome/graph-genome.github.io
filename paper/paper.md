@@ -73,7 +73,7 @@ affiliations:
     index: 3
   - name: University of Goettingen
     index: 4
-  - name: Swiss Institute of Bioinformatics Geneva
+  - name: Swiss-Prot group, Swiss Institute of Bioinformatics, Geneva
     index: 5
   - name: University of California Santa Cruz
     index: 6
@@ -86,13 +86,18 @@ Add to this section a couple of paragraphs introducing the work done during the 
 
 Please separate paragraphs with a double line.
 
-## Subsection level 2
+## Component Schematization FAIRification
 
-Please keep sections to a maximum of three levels, even better if only two levels.
+We added a new schema ontology and RDF output format to Component Schematization, building
+on the VG ontology. RDF allows combining data in the visualisation, with arbritary other data encodded in RDF. This allows us to use SPARQL (a generic W3C standard graph query language) queries to allign components, bins and other visual artifacts with genome, protein and chemical annotations using SPARQL.
 
-### Subsection level 3
 
-Please keep sections to a maximum of three levels.
+## COVID-19 Annotated Pangenome graph
+
+The pangenome graphs build from sequences deposited in INDSC are serialized as RDF and loaded into https://covid-19-sparql.expasy.org. This SPARQL endpoint contains the pangenome, as well as the annotated sequences from INDSC, the annotated protein sequences from UniProt. Receptors, by UniProt and NeXtProt, as well as close orthologes from OMA and expression data from Bgee.
+
+This query system allows us to ask varied questions of the data in combination with the FAIR Component Schematization. Queries, such as in this variant, what are the annotations present in the mainline sequences but missing here.
+
 
 ## Tables, figures and so on
 
