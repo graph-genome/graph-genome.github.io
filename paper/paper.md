@@ -13,13 +13,13 @@ authors:
   - name: Toshiyuki T. Yokoyama 
     orcid: 0000-0002-7345-6397
     affiliation: 3
-    - name: Torsten Pook
+  - name: Torsten Pook
     orcid: 0000-0001-7874-8500 
     affiliation: 4
-   - name: Jerven Bolleman
+  - name: Jerven Bolleman
     orcid: 0000-0002-7449-1266
     affiliation: 5
-   - name: Artem Tarasov
+  - name: Artem Tarasov
     orcid: 0000-0000-0000-0000
     affiliation: 
   - name: Bonface Munyoki
@@ -64,7 +64,6 @@ authors:
   - name: Erik Garrison
     orcid: 0000-0003-3821-631X
     affiliation: 6
-
 affiliations:
  - name: Royal Botanic Gardens Kew
    index: 1
