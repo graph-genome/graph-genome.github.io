@@ -51,8 +51,8 @@ authors:
     orcid: 0000-0000-0000-0000
     affiliation: 
   - name: Njagi Mwaniki
-    orcid: 0000-0000-0000-0000
-    affiliation: 
+    orcid: 0000-0002-4858-2375
+    affiliation: Pwani University
   - name: Mark Seaman
     orcid: 0000-0000-0000-0000
     affiliation: 
