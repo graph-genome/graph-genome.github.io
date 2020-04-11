@@ -57,9 +57,12 @@ This page is for the software details and logistics of working on the project. I
     * [Graph Genomics Review](https://github.com/graph-genome/graph-genomics-review)
     * [Genome variation graph via SPARQL](https://github.com/graph-genome/spodgi)
 
+## Other Hackathon Teams
+* [Hackathon COVID19 Phylogeny](https://github.com/naturalis/covid19-phylogeny)
+* [Workflow for COVID19 Assembly before we visualize it](https://github.com/cbg-ethz/V-pipe)
+* [Public Sequence Resource](https://github.com/arvados/bh20-seq-resource)
 
 ## External Resources
-
 * [Frontiers Coronavirus Initiatives Directory (includes funding monitor)](https://coronavirus.frontiersin.org/)
 
 ---

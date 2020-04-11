@@ -4,16 +4,16 @@
 
 ### Pantograph Interview Podcast
     
-Interview with Josiah Seaman
+Interview with Project Lead Josiah Seaman 
 
 <iframe src="https://anchor.fm/Computomics/embed/episodes/Pantograph-SARS-Cov2--Covid-19-genome-browser-ech3sj/a-a1ss2d5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 
 ### SARS Comparison
 
-<img src="img/SARS Comparison pangenome.png" width="600" alt="This is an alpha image - the program is in the very early stages.">
+<img src="img/SARS%20Comparison%20pangenome.png" width="600" alt="This is an alpha image - the program is in the very early stages.">
 
-*Early alpha screenshot of Pantograph comparing different SARS species. Minimal overlap is shown with bat viral species.*
+*Pantograph comparing different SARS species. SARS-CoV2 is a virus which is new to science. It has minimal overlap with bat viral species. (Early alpha screenshot)*
 
 
 ### COVID-19 Relevance
@@ -34,6 +34,9 @@ Our short-term goal is to extend the Pantograph tool to add features to make it 
 ## What is the Pantograph Browser?
 
 Scientists frequently use Multiple Sequence Alignment (MSA) to compare many genomes simultaneously and highlight their differences.  MSA works by inserting gaps in all individuals to allow space for unique sequence in one or more individuals. This technique can lead to **Reference Bias** in analyzing diverse sequences. Graph Genomes are a new way of storing an alignment between many sequences that can include **non-linear rearrangements**. For example, the middle of one sequence can be at the beginning of another sequence. Tools for Graph Genomes are still under development and can't reliably scale to thousands of individuals. Pantograph is the first graph genome browser design with the capability to **scale to thousands of individuals** and still show the individual's nucleotide sequence. This means it's uniquely suited to providing a global overview of species genetic diversity with the option to zoom in on small features.
+
+![](img/nucleotides.PNG)
+*Nucleotide level view of the Bacteriophage phi1 viral pangenome.*
 
 The complete details of Pantograph and its planned capabilities are available in the 
 [Pantograph Specification (Google Document)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing). The key aspects of our approach are:
