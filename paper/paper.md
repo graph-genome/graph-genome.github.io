@@ -1,142 +1,236 @@
 ---
-title: 'Covid-19 Virtual BioHackathon 2020 - Pangenome Browser'
+title: 'Logic Programming Working Group'
 tags:
-  - pangenome_browser
-  - pantograph
+  - logic programming
 authors:
-  - name: Josiah Seaman
-    orcid: 0000-0003-2374-630X
-    affiliation: Royal Botanic Gardens Kew
-  - name: Simon Heumos
-    orcid: 0000-0003-3326-817X
+  - name: Chris Mungall
+    orcid: 0000-0002-8021-9162
+    affiliation: 1
+  - name: Hirokazu Chiba
     affiliation: 2
-   - name: Toshiyuki Yokoyama 
-    orcid: 0000-0002-7345-6397
-    affiliation: University of Tokyo
-    - name: Torsten Pook
-    orcid: 0000-0001-7874-8500 
-    affiliation: University of Goettingen
-   - name: Jerven Bolleman
-    orcid: 0000-0002-7449-1266
-    affiliation: Swiss Institute of Bioinformatics Geneva
-   - name: Artem Tarasov
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-   - name: Bonface Munyoki
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Eloi Durant
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-     - name: Hannah Sewell
-    orcid: 0000-0000-0000-0000
-    affiliation: IN-PART
-     - name: Travis Clark
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-     - name: Thomas Townsley
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Dmytro Trybushnyi
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Jack Tierney
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Jacob Windsor
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Robert Fornof
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Njagi Mwaniki
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Mark Seaman
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Kaytie Innamorati
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Joerg Hagmann
-    orcid: 0000-0000-0000-0000
-    affiliation: 
-    - name: Erik Garrison
-    orcid: 0000-0003-3821-631X
-    affiliation: University of California Santa Cruz
-  - name: 
-    orcid: 0000-0000-0000-0000
-    affiliation:
+  - name: Shuichi Kawashima
+    affiliation: 2
+  - name: Yasunori Yamamoto
+    affiliation: 2
+  - name: Pjotr Prins
+    orcid: 0000-0002-8021-9162
+    affiliation: 3
+  - name: Nada Amin
+    affiliation: 4
+  - name: Deepak Unni
+    affiliation: 5
+    orcid: 0000-0002-3583-7340
+    affiliation: 1
+  - name: <nobr>William&nbsp;E.&nbsp;Byrd</nobr>
+    affiliation: 6
 affiliations:
- - name: Institution 1, address, city, country
-   index: 1
- - name: Quantitative Biology Center, University of T¨ubingen, T¨ubingen, Germany, 72076
-   index: 2
-date: 11 April 2020
+  - name: Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+    index: 1
+  - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
+    index: 2
+  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+    index: 3
+  - name: Harvard University, USA
+    index: 4
+  - name: Berkeley Lab, USA
+    index: 5
+  - name: University of Alabama at Birmingham, USA
+    index: 6
+date: 3 March 2020
 bibliography: paper.bib
 ---
 
-# Introduction or Background
+<!--
 
-Add to this section a couple of paragraphs introducing the work done during the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayamaetal-2010].
+The paper.md, bibtex and figure file can be found in this repo:
 
-Please separate paragraphs with a double line.
+  https://github.com/journal-of-research-objects/Example-BioHackrXiv-Paper
 
-## Subsection level 2
+To modify, please clone the repo. You can generate PDF of the paper by
+pasting above link (or yours) in
 
-Please keep sections to a maximum of three levels, even better if only two levels.
+  http://biohackrxiv.genenetwork.org/
 
-### Subsection level 3
+-->
 
-Please keep sections to a maximum of three levels.
+# Introduction
 
-## Tables, figures and so on
+As part of the one week Biohackathion 2019 in Fukuoka Japan, we formed
+a working group on Logic Programming for the biomedical sciences.
 
-Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
+Logic programming in the form of relational SQL queries on database
+tables and SPARQL queries on semantic web graph data stores, is
+well known to many bioinformaticians. More advanced logic programming,
+however, is underutilized in bioinformatics.  Prolog, for example, is
+a high-level programming language that has its roots in first-order
+logic or first-order predicate calculus.  Another example, miniKanren, is an embedded
+Domain Specific Language for logic programming. Core miniKanren is
+exceptionally simple, with only three logical
+operators and one interface operator [@reasoned2nd].
 
-Table 1
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
+![Logic programming resolver traverses the solution space to find all matches \label{fig}](./logic-programming.png)
 
-Remember to introduce figures (see Figure 1) before they appear on the document. 
+The introduction of logic programming is particularly relevant in the
+context of multi-model data representations where data can be accessed
+in memory as free data structures, but also on disk where data can be
+represented as tables, trees (documents), and graphs. In
+bioinformatics we can make use of all these different data sources and
+have a query engine that can mine them all efficiently.
 
-![Project Overview](./overview.png)
- 
-Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
+Logic programming is well-suited for biological research. Essentially,
+a researcher writes a number of statements that include variables
+representing unknown information.  The logic engine then goes through
+the solution space (all data) to find possible matches (see figure
+\ref{fig}). Much more detail on the rationale and implementations of
+miniKanren and logic programming are well summarized in Byrd's book
+\emph{The Reasoned Schemer, Second Edition} [@reasoned2nd], PhD thesis
+[@ByrdPhD], and [online](https://www.youtube.com/watch?v=eQL48qYDwp4)
+[talks](https://www.youtube.com/watch?v=o3AHnyEf7IE).
 
-# Other main section on your manuscript level 1
+The `Logic Programming' working group at the 2019 edition of the
+annual Japanese BioHackathon applied logic programming to various problems.
+The working group:
+\begin{itemize}
+\item researched state-of-the-art mapping between graph stores and logic programming;
+\item created methods for bridging between SPARQL and in-memory data representations using Prolog;
+\item extended the Biolink model;
+\item and added Relational Biolink type inference for mediKanren.
+\end{itemize}
 
-Feel free to use numbered lists or bullet points as you need.
-* Item 1
-* Item 2
+<!--
+# Results
+-->
 
-# Discussion and/or Conclusion
+## Research of state-of-the-art logic programming facilities for SPARQL
 
-We recommend to include some discussion or conclusion about your work. Feel free to modify the section title as it fits better to your manuscript.
+The working group researched current solutions for combining logic
+programming with SPARQL.
+[ClioPatria](http://www.semantic-web-journal.net/system/files/swj1074.pdf)
+is an in-memory RDF quad-store tightly coupled with SWI-Prolog by Jan
+Wielemaker, the main author of SWI-Prolog
+[@WielemakerBHO15]. SWI-Prolog is published under a BSD license, and
+there even exist bindings for
+[ClioPatria and Python](http://wi.hwtk.de/WLP2018/Papers/WLP_2018_paper_4.pdf),
+for example, although we were unable to locate the source code. We
+think ClioPatria and SWI-Prolog are particularly useful for teaching,
+and for (in-memory) semantic web applications. SWI-Prolog comes with
+client libraries for SQL and SPARQL queries.
 
-# Future work
+## Accessing biological databases using SPARQLProg
 
-And maybe you want to add a sentence or two on how you plan to continue. Please keep reading to learn about citations and references.
+<!--
+    State the problem you worked on
+    Give the state-of-the art/plan
+    Describe what you have done/results starting with The working group created...
+    Write a conclusion
+    Write up any future work
+-->
 
-For citations of references, we prefer the use of parenthesis, last name and year. If you use a citation manager, Elsevier – Harvard or American Psychological Association (APA) will work. If you are referencing web pages, software or so, please do so in the same way. Whenever possible, add authors and year. We have included a couple of citations along this document for you to get the idea. Please remember to always add DOI whenever available, if not possible, please provide alternative URLs. You will end up with an alphabetical order list by authors’ last name.
+A number of biological databases make their data available in RDF
+format, supporting SPARQL access---for example,
+[Uniprot](https://www.uniprot.org/),
+[NCBI Pubchem](https://pubchemdocs.ncbi.nlm.nih.gov/rdf) and the
+[EBI RDF platform](https://www.ebi.ac.uk/rdf/).
+SPARQL provides a subset of what logic programming can do.
+However, SPARQL queries lack the property of composability and there is no way to
+reuse modular components across queries.  For example, to execute a
+range query on a genomic region using the FALDO model [@Bolleman:2016]
+requires authoring a complex query over many triples. If we then wish
+to reuse parts of that query in a more complex query, we have to
+manually compose this together.
 
-# Jupyter notebooks, GitHub repositories and data repositories
+The working group added codes to
+[SPARQLProg](https://github.com/cmungall/sparqlprog) which provides a
+way to define modular query components using logic programming.
+SPARQLProg is written in
+SWI-Prolog and has a Python interface library. All code has been made
+available in the example directory of
+SPARQLProg which provides
+sophisticated mapping of logic queries to SPARQL.
 
-* Please add a list here
-* Make sure you let us know which of these correspond to Jupyter notebooks. Although not supported yet, we plan to add features for them
-* And remember, software and data need a license for them to be used by others, no license means no clear rules so nobody could legally use a non-licensed research object, whatever that object is
+For example, a 4-part predicate `feature_in_range` can be composed
+with a binary <nobr>`has_mouse_ortholog`</nobr> predicate:
 
-# Acknowledgements
-Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
+    feature_in_range(grch38:’X’, 10000000, 20000000, HumanGene),
+    has_mouse_ortholog(HumanGene, MouseGene)
+
+This will compile down to a more complex SPARQL query, and execute it against a remote endpoint.
+
+SPARQLProg now includes bindings for many common biological SPARQL
+endpoints. As part of this hackathon we developed codes to access RDF
+databases of MBGD [@Chiba:2015], KEGG OC, TogoVar, JCM, Allie, EBI
+BioSamples, UniProt, and DisGeNET [@Queralt:2016]. Future work includes using these
+Prolog codes as building blocks for integrative analysis.
+
+## Extending the Biolink Model
+
+<!--
+    State the problem you worked on
+    Give the state-of-the art/plan
+    Describe what you have done/results starting with The working group created...
+    Write a conclusion
+    Write up any future work
+-->
+
+The [Biolink Model](https://github.com/biolink/biolink-model) is a
+data model developed for representing biological and biomedical
+knowledge. It includes a schema and generated objects for the data
+model and upper ontology. The BioLink Model was designed with the goal
+of standardizing the way information is represented in a graph store,
+regardless of the formalism used. The working group focused on
+extending this model to support representation of a wide variety of
+knowledge.
+
+The following tasks were accomplished as part of the BioHackathon:
+
+\begin{enumerate}
+\item Represent datasets and their related metadata
+\item Represent family and pedigree information to support clinical knowledge
+\item Make the provenance model more rich and descriptive
+\end{enumerate}
+
+For future work, the group will ensure that the new classes added to
+the model will have appropriate mappings to other schemas and
+ontologies.
+
+##  Relational Biolink type inference for mediKanren
+
+<!--
+    State the problem you worked on
+    Give the state-of-the art/plan
+    Describe what you have done/results starting with The working group created...
+    Write a conclusion
+    Write up any future work
+
+* Remote member Nada Amin, Chris Mungall, Deepak Unni, Will Byrd
+
+-->
+
+miniKanren is an embedded Domain Specific Language for logic
+programming.  The goal was to implement a relational type inferencer
+for the [Biolink Model](https://biolink.github.io/biolink-model/) in
+miniKanren, which can be integrated into mediKanren. The working group
+added a `yaml` subdirectory to the mediKanren GitHub page, and created
+multiple files in https://github.com/webyrd/mediKanren/yaml where
+`yaml2sexp.py` generates the `biolink.scm` file which contains an
+s-expression version of the Biolink yaml file. `yaml.scm` contains
+miniKanren relations, and Chez Scheme code that generates miniKanren
+relations based on `biolink.scm`. These are giant miniKanren `conde`
+clauses that can be thought of as relational tables.  `yaml.scm` also
+contains tests for the relations.
+
+Future work includes:
+
+1. integrating this work into the Racket mediKanren code;
+2. integrating with the data categories in the KGs;
+3. and creating query editor with decent type error messages, autocompletion,
+   query synthesis, etc.
+
+# Discussion
+
+The working group concluded that there is ample scope for logic
+programming in bioinformatics. Future work includes expansion of
+accessing semantic web databases using SPARQLProg, expanding the
+BioLink model, and adding dynamic SPARQL support to miniKanren.
 
 # References
-
-Leave thise section blank, create a paper.bib with all your references
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzEwNDQ1NywtMjEzMTcwODcwNiwtMT
-MxNjE0ODA2NiwzNDk3MTkxMTgsNDEwMzM4MTMsLTg2NDUwNTMw
-MSwxNDc4NDMwMjkyLC0xMzYyMTUxMTgxLC0yMTM5MDUyMzQyXX
-0=
--->
