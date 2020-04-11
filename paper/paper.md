@@ -109,6 +109,10 @@ The pangenome graphs build from sequences deposited in INDSC are serialized as R
 
 This query system allows us to ask varied questions of the data in combination with the FAIR Component Schematization. Queries, such as in this variant, what are the annotations present in the mainline sequences but missing here.
 
+## Display of Nucleotides Above Graphical Representation of Graph Genome
+
+We added the successful rendering of the appropriate nucleotides above the matrix that represents the graph genome. This is read in from fasta files and then processed so that at each bin the correct letter is shown. This will allow researchers to clearly see what sequence changes have occured in the genome as well as the rearrangement
+
 
 ## Tables, figures and so on
 
