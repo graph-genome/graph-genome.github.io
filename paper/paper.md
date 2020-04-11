@@ -6,20 +6,20 @@ tags:
 authors:
   - name: Josiah Seaman
     orcid: 0000-0003-2374-630X
-    affiliation: Royal Botanic Gardens Kew
+    affiliation: 1 
   - name: Simon Heumos
     orcid: 0000-0003-3326-817X
     affiliation: 2
   - name: Toshiyuki T. Yokoyama 
     orcid: 0000-0002-7345-6397
     affiliation: 3
-  - name: Torsten Pook
+    - name: Torsten Pook
     orcid: 0000-0001-7874-8500 
-    affiliation: University of Goettingen
-  - name: Jerven Bolleman
+    affiliation: 4
+   - name: Jerven Bolleman
     orcid: 0000-0002-7449-1266
-    affiliation: Swiss Institute of Bioinformatics Geneva
-  - name: Artem Tarasov
+    affiliation: 5
+   - name: Artem Tarasov
     orcid: 0000-0000-0000-0000
     affiliation: 
   - name: Bonface Munyoki
@@ -63,17 +63,21 @@ authors:
     affiliation: 
   - name: Erik Garrison
     orcid: 0000-0003-3821-631X
-    affiliation: University of California Santa Cruz
-  - name: 
-    orcid: 0000-0000-0000-0000
-    affiliation:
+    affiliation: 6
+
 affiliations:
-  - name: Institution 1, address, city, country
-    index: 1
-  - name: Quantitative Biology Center, University of T¨ubingen, T¨ubingen, Germany, 72076
-    index: 2
-  - name: The University of Tokyo, Chiba, Japan
-    index: 3
+ - name: Royal Botanic Gardens Kew
+   index: 1
+ - name: Quantitative Biology Center, University of T¨ubingen, T¨ubingen, Germany, 72076
+   index: 2
+ - name: The University of Tokyo, Chiba, Japan
+   index: 3
+ - name: University of Goettingen
+   index: 4
+ - name: Swiss Institute of Bioinformatics Geneva
+   index: 5
+ - name: University of California Santa Cruz
+   index: 6
 date: 11 April 2020
 bibliography: paper.bib
 ---
