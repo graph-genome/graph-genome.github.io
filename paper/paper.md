@@ -86,6 +86,8 @@ bibliography: paper.bib
 As part of the one week COVID-19 Biohackathon April 5-11 2020, we formed
 a working group on the interactive visualization of graphical pangenomes.
 
+Success or failure of our efforts to fight COVID19 rely on the sequence diversity of the virus itself. Tests for infection by SARS-CoV-19 rely on knowing the exact sequence of the virus, vaccines are designed to mimic the exact structure of a specific protein without rearrangements and drugs are designed to target proteins which they assume will not change. Having a clear idea of where sequence diversity lies or where rearrangements and variants appear to be arising will give researchers a headstart in their hunt for therapeutics and aid our fight of the disease. In addition, normal reference based sequencing can lead to under-representations of the full diversity because of bias in the way the genomes are built. Methods of building and fully visualizing the genetic diversity of the virus need to be developed.
+
 TODO intro graphical pangenomes \
 TODO intro pantograph pangenome browser
 
