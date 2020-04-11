@@ -1,5 +1,6 @@
 ---
-title: 'Covid-19 Virtual BioHackathon 2020 - Pangenome Browser'
+title: '
+COVID-19 Biohackathon April 5-11 2020 - Pangenome Browser'
 tags:
   - pangenome_browser
   - pantograph
@@ -82,9 +83,17 @@ bibliography: paper.bib
 ---
 # Introduction or Background
 
-Add to this section a couple of paragraphs introducing the work done during the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayamaetal-2010].
+As part of the one week COVID-19 Biohackathon April 5-11 2020, we formed
+a working group on the interactive visualization of graphical pangenomes.
 
-Please separate paragraphs with a double line.
+TODO intro graphical pangenomes \
+TODO intro pantograph pangenome browser
+
+The `Pangenome Browser' working group at the 2020 edition of the
+VirtualBioHackathon addressed themselves with different aspects of a pangenome browser:
+
+- TODO item1
+- TODO item2
 
 ## Component Schematization FAIRification
 
