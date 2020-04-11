@@ -10,78 +10,76 @@ authors:
   - name: Simon Heumos
     orcid: 0000-0003-3326-817X
     affiliation: 2
-   - name: Toshiyuki Yokoyama 
+  - name: Toshiyuki T. Yokoyama 
     orcid: 0000-0002-7345-6397
     affiliation: 3
-    - name: Torsten Pook
+  - name: Torsten Pook
     orcid: 0000-0001-7874-8500 
     affiliation: 4
-   - name: Jerven Bolleman
+  - name: Jerven Bolleman
     orcid: 0000-0002-7449-1266
     affiliation: 5
-   - name: Artem Tarasov
+  - name: Artem Tarasov
     orcid: 0000-0000-0000-0000
     affiliation: 
-   - name: Bonface Munyoki
+  - name: Bonface Munyoki
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Eloi Durant
+  - name: Eloi Durant
     orcid: 0000-0000-0000-0000
     affiliation: 
-     - name: Hannah Sewell
+  - name: Hannah Sewell
     orcid: 0000-0000-0000-0000
     affiliation: IN-PART
-     - name: Travis Clark
+  - name: Travis Clark
     orcid: 0000-0000-0000-0000
     affiliation: 
-     - name: Thomas Townsley
+  - name: Thomas Townsley
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Dmytro Trybushnyi
+  - name: Dmytro Trybushnyi
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Jack Tierney
+  - name: Jack Tierney
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Jacob Windsor
+  - name: Jacob Windsor
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Robert Fornof
+  - name: Robert Fornof
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Njagi Mwaniki
+  - name: Njagi Mwaniki
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Mark Seaman
+  - name: Mark Seaman
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Kaytie Innamorati
+  - name: Kaytie Innamorati
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Joerg Hagmann
+  - name: Joerg Hagmann
     orcid: 0000-0000-0000-0000
     affiliation: 
-    - name: Erik Garrison
+  - name: Erik Garrison
     orcid: 0000-0003-3821-631X
     affiliation: 6
-
 affiliations:
- - name: Royal Botanic Gardens Kew
-   index: 1
- - name: Quantitative Biology Center, University of T¨ubingen, T¨ubingen, Germany, 72076
-   index: 2
-- name: University of Tokyo
-   index: 3
-- name: University of Goettingen
-   index: 4
-- name: Swiss-Prot group, Swiss Institute of Bioinformatics, Geneva
-   index: 5
-- name: University of California Santa Cruz
-   index: 6
+  - name: Royal Botanic Gardens Kew
+    index: 1
+  - name: Quantitative Biology Center, University of T¨ubingen, T¨ubingen, Germany, 72076
+    index: 2
+  - name: The University of Tokyo, Chiba, Japan
+    index: 3
+  - name: University of Goettingen
+    index: 4
+  - name: Swiss-Prot group, Swiss Institute of Bioinformatics, Geneva
+    index: 5
+  - name: University of California Santa Cruz
+    index: 6
 date: 11 April 2020
 bibliography: paper.bib
 ---
-
 # Introduction or Background
 
 Add to this section a couple of paragraphs introducing the work done during the BioHackathon, CodeFest, VoCamp or Sprint event. Please add references whenever needed, for instance [@Katayamaetal-2010].
