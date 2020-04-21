@@ -59,9 +59,9 @@ authors:
   - name: Kaytie Innamorati
     orcid: 0000-0000-0000-0000
     affiliation: 
-  - name: Joerg Hagmann
-    orcid: 0000-0000-0000-0000
-    affiliation: 
+  - name: Jörg Hagmann
+    orcid: 0000-0002-7232-3103
+    affiliation: 7
   - name: Erik Garrison
     orcid: 0000-0003-3821-631X
     affiliation: 6
@@ -78,6 +78,8 @@ affiliations:
     index: 5
   - name: University of California Santa Cruz
     index: 6
+  - name: Computomics GmbH
+    index: 7
 date: 11 April 2020
 bibliography: paper.bib
 ---
