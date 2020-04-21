@@ -138,6 +138,27 @@ Feel free to use numbered lists or bullet points as you need.
 * Item 1
 * Item 2
 
+
+## HaploBlocker Extension
+
+The HaploBlocker implementation was indented to merge locally similar specimens. Based on this potential break points of the genome sequence are identified and specimens can be sorted according to their local similarities. Even tough is has shown to be highly useful for common livestock and crop populations, this kind of sorting is not required for common viruses, like CoVID-19 and the Sars family as genome usually only have a size of a couple of kilobase pairs with no recombination and relatively small number of mutations.
+
+As part of the CoVID-19-Biohackathon, a specific Virus-mode of our HaploBlocker implementation was developed, with is allowing for no variation between specimens (merging_error = 0, min_similarity = 1 in HB), as specimens of the SARS2 family on average were only different in 70 basepairs. The resulting haplotype library only had a single haplotype block in most regions, but clearing indications with specimens are different to the local main variant (Figure 2). 
+
+![sars2](https://user-images.githubusercontent.com/38560663/78676994-77bee880-78e7-11ea-8c0d-d85d36077577.PNG)
+Figure 2. HaploBlocker visualization of 169 Sars2 strands
+
+When however also including Sars1 specimens there was basically no overlap within the families (Figure 3). Therefore, an additional mode was implemented to specifically identify regions with shared variation between different parts of the SARS family by identified subgroups in HaploBlocker, but even when allowing for major deviations between specimens of different families only very limited overlap could be identified (Figure 4). 
+
+![Sars1vsSars2_regular](https://user-images.githubusercontent.com/38560663/78677501-1c412a80-78e8-11ea-9428-5b0bc3139df5.PNG)
+Figure 3. HaploBlocker visualization of 343 strands of the Sars-family
+
+![Sars1vsSars2](https://user-images.githubusercontent.com/38560663/78677903-92de2800-78e8-11ea-8e4c-ae2e7d6caf53.PNG)
+Figure 4. Overlapping haplotype blocks between the Sars1 and Sars2 family.
+
+Thirdly, the HaploBlocker pipeline now provided output-file containing information of the obtained haplotype library to allow coloring by haplotype blocks. This is particular helpful for users to identify long-range assosiations between specimens.
+
+
 # Discussion and/or Conclusion
 
 We recommend to include some discussion or conclusion about your work. Feel free to modify the section title as it fits better to your manuscript.
