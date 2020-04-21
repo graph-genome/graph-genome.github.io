@@ -88,6 +88,8 @@ bibliography: paper.bib
 As part of the one week COVID-19 Biohackathon April 5-11 2020, we formed
 a working group on the interactive visualization of graphical pangenomes.
 
+Success or failure of our efforts to fight COVID19 rely on the sequence diversity of the virus itself. Tests for infection by SARS-CoV-19 rely on knowing the exact sequence of the virus, vaccines are designed to mimic the exact structure of a specific protein without rearrangements and drugs are designed to target proteins which they assume will not change. Having a clear idea of where sequence diversity lies or where rearrangements and variants appear to be arising will give researchers a headstart in their hunt for therapeutics and aid our fight of the disease. In addition, normal reference based sequencing can lead to under-representations of the full diversity because of bias in the way the genomes are built. Methods of building and fully visualizing the genetic diversity of the virus need to be developed.
+
 TODO intro graphical pangenomes \
 TODO intro pantograph pangenome browser
 
@@ -108,6 +110,10 @@ on the VG ontology. RDF allows combining data in the visualisation, with arbrita
 The pangenome graphs build from sequences deposited in INDSC are serialized as RDF and loaded into https://covid-19-sparql.expasy.org. This SPARQL endpoint contains the pangenome, as well as the annotated sequences from INDSC, the annotated protein sequences from UniProt. Receptors, by UniProt and NeXtProt, as well as close orthologes from OMA and expression data from Bgee.
 
 This query system allows us to ask varied questions of the data in combination with the FAIR Component Schematization. Queries, such as in this variant, what are the annotations present in the mainline sequences but missing here.
+
+## Display of Nucleotides Above Graphical Representation of Graph Genome
+
+We added the successful rendering of the appropriate nucleotides above the matrix that represents the graph genome. This is read in from fasta files and then processed so that at each bin the correct letter is shown. This will allow researchers to clearly see what sequence changes have occured in the genome as well as the rearrangement
 
 
 ## Tables, figures and so on
