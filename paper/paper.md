@@ -51,8 +51,8 @@ authors:
     orcid: 0000-0000-0000-0000
     affiliation: 
   - name: Njagi Mwaniki
-    orcid: 0000-0000-0000-0000
-    affiliation: 
+    orcid: 0000-0002-4858-2375
+    affiliation: 8
   - name: Mark Seaman
     orcid: 0000-0000-0000-0000
     affiliation: 
@@ -80,6 +80,8 @@ affiliations:
     index: 6
   - name: Computomics GmbH
     index: 7
+  - name: Pwani University
+    index: 8
 date: 11 April 2020
 bibliography: paper.bib
 ---
