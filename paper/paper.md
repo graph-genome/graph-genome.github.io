@@ -65,6 +65,9 @@ authors:
   - name: Erik Garrison
     orcid: 0000-0003-3821-631X
     affiliation: 6
+  - name: Andrea Guarracino
+    orcid: 0000-0001-9744-131X
+    affiliation: 9
 affiliations:
   - name: Royal Botanic Gardens Kew
     index: 1
@@ -82,6 +85,8 @@ affiliations:
     index: 7
   - name: Pwani University
     index: 8
+  - name: University of Rome Tor Vergata, Via della Ricerca Scientifica 1, Rome, Italy
+    index: 9
 date: 11 April 2020
 bibliography: paper.bib
 ---
