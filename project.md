@@ -28,6 +28,7 @@ This page is for the software details and logistics of working on the project. I
     * [Communication and Development Tools](tools)
     * [Project Resources](project)
     * [Testing Procedure](testing)
+    * [Cheat Sheets](cheatsheets)
 * Professional Standards (endorsed by us)
     * [Javascript Style](https://google.github.io/styleguide/jsguide)
     * [Python Style](https://www.python.org/dev/peps/pep-0008) (with 120 chars of max line length)
