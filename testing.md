@@ -35,15 +35,15 @@ Manual Testing is done by stepping through each test case and making sure that e
 1. `npm start` runs and loads code into the browser window automatically.
 2. Browser window starts populated with a graphic showing the current data and should show the expected test pattern.
 3. Browser refresh reloads the view. 
-4. Browser window should show Input widgets at top: filename, start bin, left and right buttons, path name, position, jump button, Use Vertical Compression, Use Width Compression, Row Height, Column Width.
+4. Browser window should show Input widgets at top: filename, bin width+-, start bin, left and right buttons, path name, position, jump button, Use Vertical Compression, Use Width Compression, Row Height, Column Width.
 5. Selecting 'Use Vertical Compression' should change the view. Selecting 'Use Width Compression' should offer an additional option to select - 'Render Connectors' and 'Component Width Scaling Factor.' Changing either selected values should change how the view is displayed. Unselecting the 'Width Compression' or 'Vertical Compression' boxes should return the graphic to the default view.
 6. Light grey blocks for coverage (shouldn't be everywhere). Dark grey connectors in between Components (light grey background boxes).  
 7. Links appear as colorful arrows immediately above the Component boxes.
 8. Link Color matches Box Color in the Column immediately below either end of the link.
 9. Links horizontal runs stack up neatly without overlapping (broken in current screenshot).  
-10. Mouse over Link and it changes to black.
+10. Mouse over Link and it changes all other links to transparent grey.
 11. Click Orphan Link (only one small arrow).  View should jump to corresponding section with the other side of the link and matching color.  
-12. Matching link is visually highlighted ([#6](https://github.com/graph-genome/Schematize/issues/6) not implemented yet).
+12. Matching link is visually highlighted ([#6](https://github.com/graph-genome/Schematize/issues/6)).
 13. Clicking on the newly highlighted link should take you back to precisely where you came from (2-way link travel) with your orphan link centered in the view.
 14. Mouseover cells (grey blocks) should show e.g. "Path_name: 2365-27289. Coverage: 0.23, Inversion: 0.0".  Mouseovers should be different for each cell. Mouseover disappears when not over cell.
 
