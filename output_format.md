@@ -23,17 +23,17 @@
 
 ## chunk000_bin1.schematic.json 
 
-* `"json_version": 14; ` used to check for necessary fields. Some versions will only add info and be backwards compatible. This check is made strict to be safe.
 
-* `"bin_width": 1; ` Number of nucleotides in each bin or column
+`"json_version": 14; ` used to check for necessary fields. Some versions will only add info and be backwards compatible. This check is made strict to be safe.
 
-* `"first_bin": 0; ` first bin of the first component of this chunk
+`"bin_width": 1; ` Number of nucleotides in each bin or column
 
-* `"last_bin": 171; ` last bin of the last component of this chunk
+`"first_bin": 0; ` first bin of the first component of this chunk (see bin 0 note)
 
-* `"Components";`  contiguous blocks of linear presence/absence variants; insertion and deletions shared by the individuals/paths.
+`"last_bin": 171; ` last bin of the last component of this chunk
 
-
+`"Components";`  contiguous blocks of linear presence/absence variants; insertion and deletions shared by the individuals/paths.
+* **Special Note:** Bin 0 is reserved to mean the beginning or end of an individual path.  All paths start at bin 0, traverse through any number of other bins and then end at bin 0.  Links to Bin 0 should not be rendered like normal links. This causes a "dummy component" at the beginning of the pangenome with first_bin,last_bin: 0.
 
 *   `"first_bin": 1; ` first bin coordinate inside this component
 *   `"last_bin": 2; ` last bin coordinate inside this component (inclusive)
@@ -49,6 +49,7 @@
     *   `"upstream": 2; ` last bin coordinate of this component
     *   `"downstream": 6; ` first bin coordinate of arriving component
     *   `"participants": [false, false, false, ...]; ` array of length N paths, true if the path contains this rearrangement
+    * **Special Note:** The last entry of every departures array is a special value containing the "Adjacent Connectors". These are the list of individuals which traverse from Component N to N+1 instead of taking a non-linear link.  There is no matching "arrivals" column and the adjacent connectors are rendered differently in schematize. For this reason `sum(len(departures)) = sum(len(arrivals)) + component_count`. Not all departures have a corresponding arrival. This will be changed ([see this comment](https://github.com/graph-genome/Schematize/issues/80#issuecomment-628136157)).
 
 * `"x": 0; ` cumulative left X coordinate to speed up the visualization in columns. assumes that the Matrix is shown in there is no width compression. The value in columns does not change regardless of the pixels per column.
 
