@@ -36,7 +36,7 @@ Manual Testing is done by stepping through each test case and making sure that e
 2. Browser window starts populated with a graphic showing the current data and should show the expected test pattern.
 3. Browser refresh reloads the view. 
 4. Browser window should show Input widgets at top: filename, bin width+-, start bin, left and right buttons, path name, position, jump button, Use Vertical Compression, Use Width Compression, Row Height, Column Width.
-5. Selecting 'Use Vertical Compression' should change the view. Selecting 'Use Width Compression' should offer an additional option to select - 'Render Connectors' and 'Component Width Scaling Factor.' Changing either selected values should change how the view is displayed. Unselecting the 'Width Compression' or 'Vertical Compression' boxes should return the graphic to the default view.
+5. Selecting 'Use Vertical Compression' should change the view. Selecting 'Use Width Compression' should offer an additional option to select - 'Render Connectors'. Changing either selected values should change how the view is displayed. Unselecting the 'Width Compression' or 'Vertical Compression' boxes should return the graphic to the default view.
 6. Light grey blocks for coverage (shouldn't be everywhere). Dark grey connectors in between Components (light grey background boxes).  
 7. Links appear as colorful arrows immediately above the Component boxes.
 8. Link Color matches Box Color in the Column immediately below either end of the link.
