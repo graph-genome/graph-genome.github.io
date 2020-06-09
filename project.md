@@ -8,6 +8,7 @@ This page is for the software details and logistics of working on the project. I
 ## Project Documents
 
 * Project Overiew
+    * [Getting Started with Pantograph (wiki)](https://github.com/graph-genome/Schematize/wiki)
     * [Pantograph Description](pantograph)
     * [Pantograph Software Architecture](architecture)
     * [Graph Genome Browser Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74)

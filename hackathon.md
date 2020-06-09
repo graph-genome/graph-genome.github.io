@@ -2,7 +2,8 @@
 
 ![](img/pantograph.png)
 
-# Pantograph Hackathon - April 5-11, 2020
+# Pantograph Hackathon
+Our core team launched with a Hackathon on April 5-11, 2020.  We laid down the core features of the browser.  In the months following, many volunteers stayed on to continue development until our [Public Sequence Browser Release](https://graph-genome.github.io//Schematize/).  You can still get involved in Pantograph development. The roadmap of features will require volunteers to help with coding and a search for grants.   
 
 ## Hackathon Goal
 
@@ -48,7 +49,6 @@ There are a lot of tasks involved in managing a software development project.
 1. Email josiah@newline.us to express interest and ask questions.
 2. Pick a Pantograph Project that fits your skills
 3. Select an issue in the issues database to work on. 
-4. Talk to Josiah on [Zoom](https://zoom.us/j/9703818860)
 5. Submit a Pull Request once you've written the code.
 
 ### Expectations for Hackathon
@@ -57,6 +57,7 @@ The hackathon is a great way to get started with minimal commitment. Team leader
 
 
 ## Documentation Index
+* [Getting Started with Pantograph (wiki)](https://github.com/graph-genome/Schematize/wiki)
 * [Complete Software Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
 * [Pantograph Description](pantograph.html)
 * [Communication and Development Tools](tools.html)
