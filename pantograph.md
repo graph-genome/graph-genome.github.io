@@ -40,7 +40,8 @@ Scientists frequently use Multiple Sequence Alignment (MSA) to compare many geno
 ![](img/nucleotides.PNG)
 *Nucleotide level view of the Bacteriophage phi1 viral pangenome.*
 
-The complete details of Pantograph and its planned capabilities are available in the 
+[Live Demo](https://graph-genome.github.io//Schematize/) is available for the SARS-CoV-2 pangenome.  
+The **[Pantograph Wiki](https://github.com/graph-genome/Schematize/wiki)** contains a user guide to get started on interpreting visualizations. The complete details of Pantograph and its planned capabilities are available in the 
 [Pantograph Specification (Google Document)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing). The key aspects of our approach are:
  1. Use Graph Sorting to find a consensus ordering of elements in the genome 
  2. Separate genome into colinear blocks called Components 
@@ -53,18 +54,11 @@ The complete details of Pantograph and its planned capabilities are available in
 ![This is an alpha image - the program is in the very early stages.](img/Mouseover and Inputs.png)
 *Early alpha screenshot of Pantograph comparing Arabidopsis thaliana individuals with many rearrangements.*
 ### Getting Involved
-There are a variety of great ways to participate in finding a solution. [Click here for the first steps](getinvolved.md)
-
-
-### Hackathon - April 5-11
-
-If you're not available right away, but would like to join the team, the Hackathon is a great opportunity. We will be hosting a special event for volunteers to collaborate for one week. We hope to build the software to a point where we can analyze the variations of the SARS-CoV-2 virus by the end of April. Your contribution could be important to helping us stop this killer virus.
-
-Join us to extend Pantograph so that it can be used to help with the COVID-19 outbreak.
-[Hackathon Details](hackathon.md)
+There are a variety of great ways to participate in finding a solution. [Click here for the first steps](getinvolved.md) Your contribution could be important to helping us stop this killer virus.
 
 
 ## Documentation Index
+* [Getting Started with Pantograph (wiki)](https://github.com/graph-genome/Schematize/wiki)
 * [Complete Software Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
 * [Pantograph Description](pantograph.html)
 * [Communication and Development Tools](tools.html)
