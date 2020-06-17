@@ -5,7 +5,7 @@
 
 ## What is the Pantograph Project?
 
-* [Our History]
+* Our History
 
     * The Pantograph Project began in 2019 with the mission to provide a next generation tool for unlocking population genetic information for researchers. Pantograph is an open source browsable pangenome visualization for graph genomes. It scales to thousands of individuals while preserving all types of sequence variation. Other tools either are not scalable or discard all genome rearrangements. 
     * In March 2020 we realized that Pantograph could make a significant contribution to the work being done by researchers and vaccine developers in the global fight against SARS-Cov-2. Pantograph’s application to the COVID-19 pandemic is driven by the unique evolutionary scenario we are facing. The infected population size is a multiplier for the number of mutations available for selection. Pantograph can help predict vaccine effectiveness in different regions of the world by integrating our total knowledge of genetic diversity.
@@ -54,6 +54,13 @@
     <img src="img/BBSRC.png" width="400">
 </p>
 
+<p>
+    <img src="curii.png" width="400">
+</p>
+
+<p>
+    <img src="img/AWS.jpg" width="400">
+</p>
 
 <p>
     The <a href="https://www.denbi.de/cloud">deNBI Cloud</a> has provided VMs for developing this project and is currently providing a VM of 28 cores, 64GB RAM and 1TB storage for our <strong>COVID19 Pangenome Visualization</strong>.
