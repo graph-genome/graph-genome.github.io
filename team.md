@@ -2,38 +2,32 @@
 
 ![](img/pantograph.png)
 
-* Multinational scientists and engineers
-* Volunteer hours contributed
+* Our team is multi-national with contributors on 6 continents!
 
 
-## Core Contributors
-
-### Josiah Seaman
-
-Role - Front-End Design, Project Management, React front end development
-
-### Simon Heumos
-
-Role - Backend, Project Management, General Overview, SPARQL 
-
-### Jörg Hagmann
-
-Role - Genome graph pipeline
-
-### Erik Garrison
-
-Role - Graph Genome creation, Variant analysis, C++, algorithms
-
-### Toshiyuki Yokoyama
-
-Role - Server architecture, Backend graph format specification
-
-
-### Christian Kubica
-
-Role - Generate Graph genomes to use, Backend graph format specification
-
-
-
-## Other Contributors
-
+###The Pantograph Team
+* Josiah Seaman, Kew Gardens London
+* Simon Heumos, QBiC
+* Erik Garrison, University of California Santa Clara
+* Thomas Townsley, University of Lipscomb
+* Andrea Guarracino, University Of Rome Tor Vergata, Rome, Italy
+* Bonface Munyoki
+* Dmytro Trybushni, Karlsruhe Institute Of Technology, Germany
+* Mark Seaman, University of Northern Colorado
+* Njagi Mwaniki, IDEAL fellow at KEMRI-Wellcome Trust, Pwani University
+* Jörg Hagmann, Computomics GmbH
+* Stacie Seaman
+* Toshiyuki Yokoyama, University of Tokyo
+* Torsten Pook, University Göttingen
+* Christian Kubica, Max Planck Institute for Developmental Biology, Tübingen
+* Jerven Bolleman, Swiss Institute of Bioinformatics, Geneva
+* Artem Tarasov
+* Hannah Sewell, InPart Inc.
+* Eloi Durant
+* Kaytie Innamorati
+* Michael Crusoe
+* Peter Amstutz
+* Robert Fornof
+* Travis Clark
+* Jack Tierney
+* Jacob Windsor
