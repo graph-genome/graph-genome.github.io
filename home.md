@@ -55,7 +55,7 @@
 </p>
 
 <p>
-    <img src="curii.png" width="400">
+    <img src="curii" width="400">
 </p>
 
 <p>
