@@ -55,7 +55,7 @@
 </p>
 
 <p>
-    <img src="img/logo.ai.svg" alt="Curii" width="400">
+    <img src="img/curii.png" alt="Curii" width="400">
 </p>
 
 <p>
