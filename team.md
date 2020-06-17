@@ -5,7 +5,7 @@
 
 ## The Pantograph Team
 
-* Our team is multi-national with contributors on 6 continents!
+Our team is multi-national with contributors on 6 continents!
 * Josiah Seaman, Kew Gardens London
 * Simon Heumos, QBiC
 * Erik Garrison, University of California Santa Clara
