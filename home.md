@@ -12,7 +12,7 @@
     * Our team participated in the COVID-19 Virtual Biohackathon 2020 held in April. We made an open call on Twitter to join the Pantograph build and 21 bioinformaticians, programmers, and grant writers from 2 continents volunteered to donate a week’s worth of their time to the round-the-clock effort. The results included 100x improvement in speed and two new major features. Following the hackathon, 10 people committed to continuing to work on Pantograph by donating 10-40 hours a week of their own time. We are currently seeking funding to support that work full-time in order to accelerate development.
 
 
-* [Our Mission](mission)
+* Our Mission
 
     * Provide a public server with an instance of Pantograph (Open Source) available to all genetic researchers and vaccine developers
     * Generate a SARS-CoV-2 pangenome from the largest dataset available of de novo genome assemblies
