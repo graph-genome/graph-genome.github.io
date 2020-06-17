@@ -41,8 +41,8 @@
 
 * How you can help?
     * Grant writers to help with funding search
-    * Biologists to do beta-testing
-    * Software engineers with JavaScript or C++ knowledge
+    * Biologists to do [beta-testing](betatest)
+    * Software engineers (with JavaScript or C++ knowledge) for [Release 1.1](release_1_1)
 
 
 ## Our Supporters
