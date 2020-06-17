@@ -43,7 +43,7 @@
 
 ## Our Supporters
 
-<p><strong>The Pantograph project is supported by</strong>
+<p><strong>The Pantograph project is supported by</strong></p>
 <p>
     <img src="img/ZIM.jpg">
 </p>
@@ -91,14 +91,12 @@
     infrastructure like setting up and maintaining a public server:
 </p>
 <p>
-    <a class="btn btn-primary btn-lg" href="https://paypal.me/Computomics" rel="noopener noreferrer" target="_blank" role="button">Donate to Pantograph Project &raquo;</a>
+    <a class="btn btn-primary btn-lg" href="https://paypal.me/Computomics" rel="noopener noreferrer" target="_blank" role="button">Donate to Pantograph Project</a>
 </p>
 
 <p>If your company or organization would like to get involved in developing this tool,
     please contact us: <a href="mailto: pantograph@computomics.com">pantograph@computomics.com</a>.
 </p>
-
-
 
 ## Documentation Index
 * [Getting Started with Pantograph (wiki)](https://github.com/graph-genome/Schematize/wiki)
