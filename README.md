@@ -1,8 +1,8 @@
 ![](img/pantograph.png)
 
 ## Online Browser Demo
-* Use [Pantograph](https://graph-genome.github.io//Schematize) to browse 169 SARS-CoV-2 aligned genomes.
-* Thanks to the [Public Sequence Resource](https://workbench.lugli.arvadosapi.com/projects/lugli-j7d0g-825x3r5vcs41dus") team for the data set.
+* Use [Pantograph](https://graph-genome.github.io/Schematize) to browse 169 SARS-CoV-2 aligned genomes.
+* Thanks to the [Public Sequence Resource](https://workbench.lugli.arvadosapi.com/projects/lugli-j7d0g-825x3r5vcs41dus) team for the data set.
 
 
 ## What is the Pantograph Project?
