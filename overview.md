@@ -1,19 +1,19 @@
 # What is the Pantograph Project?
 
 
-## Our Team
+## [Our Team](team)
 
 * Multinational scientists and engineers
 * Volunteer hours contributed
 
 
-## Our Mission
+## [Our Mission](mission)
 
 * Build a tool that displays genetic diversity
 * Help understand the strains of COVID-19
 
 
-## Our Future
+## [Our Future](future)
 
 * Release 1.1
     * gene annotations

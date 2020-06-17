@@ -19,7 +19,7 @@
 
 ## Release 1.0
 
-* [Pantograph - Release 1.0 - June 12, 2020](release1.0)
+* [Pantograph - Release 1.0 - June 12, 2020](release_1_0)
 
 * What has been done?
 
