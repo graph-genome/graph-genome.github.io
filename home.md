@@ -1,4 +1,4 @@
-# Pantograph - Graphgenome browswer
+# Pantograph - Graphgenome browser
 
 ![](img/pantograph.png)
 
