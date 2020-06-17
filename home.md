@@ -40,50 +40,50 @@
 
 ## Our Supporters
 
-                        <p><strong>The Pantograph project is supported by</strong>
-                            <p>
-                                <img src="img/ZIM.jpg">
-                            </p>
+<p><strong>The Pantograph project is supported by</strong>
+<p>
+    <img src="img/ZIM.jpg">
+</p>
 
 
-                            <p>
-                                <img src="img/GermanNetworkForBioInformatics1.jpg" width="400">
-                            </p>
+<p>
+    <img src="img/GermanNetworkForBioInformatics1.jpg" width="400">
+</p>
 
-                            <p>
-                                <img src="img/BBSRC.png" width="400">
-                            </p>
-
-
-                            <p>
-                                The <a href="https://www.denbi.de/cloud">deNBI Cloud</a> has provided VMs for developing this project and is currently providing a VM of 28 cores, 64GB RAM and 1TB storage for our <strong>COVID19 Pangenome Visualization</strong>.
-                                The deNBI cloud <a href="https://cloud.denbi.de/covid-19-resources/">covid-19-resources</a> lists us as one of the available resources to fight COVID19.
-                            </p>
+<p>
+    <img src="img/BBSRC.png" width="400">
+</p>
 
 
-                            <p>Pangenome Schematic design and development research was funded through the 1001 Genomes project under grant BBSRC BB/S004661/1.
-                            </p>
+<p>
+    The <a href="https://www.denbi.de/cloud">deNBI Cloud</a> has provided VMs for developing this project and is currently providing a VM of 28 cores, 64GB RAM and 1TB storage for our <strong>COVID19 Pangenome Visualization</strong>.
+    The deNBI cloud <a href="https://cloud.denbi.de/covid-19-resources/">covid-19-resources</a> lists us as one of the available resources to fight COVID19.
+</p>
 
 
-                            <p>NBDC/DBCLS BioHackathon 2019 is supported by the Integrated Database Project (Ministry of Education, Culture, Sports, Science and Technology of Japan) and hosted by the National Bioscience Database Center (NBDC) and the Database Center for Life Science (DBCLS).
-                            </p>
+<p>Pangenome Schematic design and development research was funded through the 1001 Genomes project under grant BBSRC BB/S004661/1.
+</p>
 
 
-                            <p>Computomics GmbH funded a second hackathon to implement the data pipeline in November 2019.
-                            </p>
+<p>NBDC/DBCLS BioHackathon 2019 is supported by the Integrated Database Project (Ministry of Education, Culture, Sports, Science and Technology of Japan) and hosted by the National Bioscience Database Center (NBDC) and the Database Center for Life Science (DBCLS).
+</p>
 
 
-                            <p>Toshiyuki Yokoyama’s work was funded in part by JSPS KAKENHI (grant numbers 16H06279 and 19J21608).
-                            </p>
+<p>Computomics GmbH funded a second hackathon to implement the data pipeline in November 2019.
+</p>
 
 
-                            <p>If you wish to donate to the Pantograph project, e.g. for
-                                infrastructure like setting up and maintaining a public server:
-                            </p>
-                            <p>
-                                <a class="btn btn-primary btn-lg" href="https://paypal.me/Computomics" rel="noopener noreferrer" target="_blank" role="button">Donate to Pantograph Project &raquo;</a>
-                            </p>
+<p>Toshiyuki Yokoyama’s work was funded in part by JSPS KAKENHI (grant numbers 16H06279 and 19J21608).
+</p>
 
-                            <p>If your company or organization would like to get more involved in developing this tool,
-                                please contact us: <a href="mailto: pantograph@computomics.com">pantograph@computomics.com</a>.
-                            </p>
+
+<p>If you wish to donate to the Pantograph project, e.g. for
+    infrastructure like setting up and maintaining a public server:
+</p>
+<p>
+    <a class="btn btn-primary btn-lg" href="https://paypal.me/Computomics" rel="noopener noreferrer" target="_blank" role="button">Donate to Pantograph Project &raquo;</a>
+</p>
+
+<p>If your company or organization would like to get more involved in developing this tool,
+    please contact us: <a href="mailto: pantograph@computomics.com">pantograph@computomics.com</a>.
+</p>
