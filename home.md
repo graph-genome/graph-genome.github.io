@@ -24,7 +24,7 @@
 
 
 ## Accomplishments To Date
-* Developed a new method for visualizing Pangenome that can scale to thousands of samples
+* Developed a new method for visualizing a Pangenome that can scale to thousands of samples
 * 220 SARS-CoV-2 genomes gathered by `public_sequence_resource` team collected and filtered from NCBI
 * Pantograph: A team of 8+ people developed Open Source software for browsing Graph Genomes
 * [Pantograph - Release 1.0 - June 12, 2020](release_1_0)
