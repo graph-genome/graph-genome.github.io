@@ -63,7 +63,7 @@ There are a variety of great ways to participate in finding a solution. [Click h
 * [Pantograph Description](pantograph.html)
 * [Communication and Development Tools](tools.html)
 * [Project Resources](project.html)
-* [Our Team](https://docs.google.com/document/d/19SHq1P6aWBLKxJbMytW-qZEabWLtYVhoBU09C0uZlV8/edit?usp=sharing)
+* [Our Team](team.html)
 * [Hackathon](hackathon.html)
 * [Get Involved](getinvolved.html)
 * [Testing Procedure](testing.html)

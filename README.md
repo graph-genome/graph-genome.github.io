@@ -99,4 +99,14 @@
 </p>
 
 
-[Documentation Index](https://graph-genome.github.io/pantograph.html#documentation-index)
+
+## Documentation Index
+* [Getting Started with Pantograph (wiki)](https://github.com/graph-genome/Schematize/wiki)
+* [Complete Software Specification (gdoc)](https://docs.google.com/document/d/1NEYkRS6Ux1w_v0Soe74FeOAMOxGHOzDun00LdjMi-74/edit?usp=sharing)
+* [Pantograph Description](pantograph.html)
+* [Communication and Development Tools](tools.html)
+* [Project Resources](project.html)
+* [Our Team](team.html)
+* [Hackathon](hackathon.html)
+* [Get Involved](getinvolved.html)
+* [Testing Procedure](testing.html)

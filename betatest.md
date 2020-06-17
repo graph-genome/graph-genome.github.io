@@ -2,9 +2,9 @@
 
 ## Pantograph Tool
 
-The Pantograph tool is hosted at Pantograph.com.
+The Pantograph tool is hosted at https://graph-genome.github.io/Schematize/.
 
-The data available for COVID-19 is located at “xxxxx"
+The SARS-CoV-2 genomes are located on [Arvados](https://workbench.lugli.arvadosapi.com/projects/lugli-j7d0g-825x3r5vcs41dus). 
 
 
 ## Beta Test
