@@ -1,5 +1,7 @@
 # Pantograph - Graphgenome browswer
 
+![](img/pantograph.png)
+
 
 ## What is the Pantograph Project?
 

@@ -1,5 +1,6 @@
 # What is the Pantograph Project?
 
+![](img/pantograph.png)
 
 ## [Our Team](team)
 

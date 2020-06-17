@@ -1,5 +1,7 @@
 # Pantograph - Release 1.0
 
+![](img/pantograph.png)
+
 * Product Features
 
     *
