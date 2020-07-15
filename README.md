@@ -46,10 +46,6 @@
 <p><strong>The Pantograph project is supported by</strong></p>
 
 <p>
-    <img src="img/computomics-logo-2020-black-transparent.png" width="500">
-</p>
-
-<p>
     <img src="img/ZIM.jpg">
 </p>
 
@@ -67,6 +63,10 @@
 
 <p>
     <img src="img/AWS.jpg" width="400">
+</p>
+
+<p>
+    <img src="img/computomics-logo-2020-black-transparent.png" width="500">
 </p>
 
 <p>
