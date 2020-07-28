@@ -30,8 +30,8 @@ authors:
     orcid: 0000-0000-0000-0000
     affiliation: 
   - name: Hannah Sewell
-    orcid: 0000-0000-0000-0000
-    affiliation: IN-PART
+    orcid: 0000-0003-4812-1322
+    affiliation: 
   - name: Travis Clark
     orcid: 0000-0000-0000-0000
     affiliation: 
