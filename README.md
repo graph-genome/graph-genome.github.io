@@ -1,3 +1,8 @@
+# Discontinued!
+> :warning: **THIS PROJECT IS DISCONTINUED.**: For details please see https://github.com/graph-genome/graph-genome.github.io/issues/30.
+
+Github example
+
 ![](img/pantograph.png)
 
 ## Online Browser Demo
