@@ -1,5 +1,5 @@
 # Discontinued!
-> :warning: **THIS PROJECT IS DISCONTINUED.**: For details please see https://github.com/graph-genome/graph-genome.github.io/issues/30.
+> :warning: **THIS PROJECT IS DISCONTINUED.** For details please see https://github.com/graph-genome/graph-genome.github.io/issues/30.
 
  
 ![](img/pantograph.png)
